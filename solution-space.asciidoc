@@ -1,4 +1,4 @@
-= *Solution space*
+== Solution space
 
 === About Scriptarnica
 

@@ -1,4 +1,4 @@
-= *Welcome*
+== Welcome
 
 Technology has advanced over the years and it has changed the way we live,
 communicate, the way we travel and learn. Almost everything we use
