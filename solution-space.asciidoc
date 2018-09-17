@@ -317,7 +317,7 @@ Due to the reasons mentioned above, 70% of tokens will be available for token sa
 
 - 38.5% of SCRPT will be available for Private Sale investors
 - 28.0% of SCRPT will be available for Public Sale 
-3.5% of SCRPT will be allocated to Seed Round Investors 
+3.5% of SCRPT will be allocated to Seed Rou nd Investors
 
 *Lock-up period for private sale investors and public sale investors: three months after the coin listings +
 *Lock-up period for seed round investors – three months post ICO
@@ -339,7 +339,115 @@ image::./images/SolutionSpace_UseOfFunds_01_IcoFundsUtilization.png[]
 
 Scriptarnica will use 33.2% of the funds for the platform’s development. 37.4% of the funds will be used for promotional and marketing activities, whereas the remaining 29.4% of the funds will be used for covering operational (16.4%) and legal expenses (13%).
 
-== Team
+== Our people
+[cols="3*",frame=none,grid=none]
+|===
+// row 1
+^a|image::./images/SolutionSpace_Team_01_IvanBjelajac.png[100,100]
+Ivan Bjelajac
+
+CEO
+[link=https://www.linkedin.com/in/ivanbjelajac/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+^a|image::./images/SolutionSpace_Team_02_MalisaPusonja.png[100, 100]
+Mališa Pušonja
+
+CTO
+[link=https://www.linkedin.com/in/ivanbjelajac/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+^a|image::./images/SolutionSpace_Team_03_AntunDebak.png[100, 100]
+Antun Debak
+
+CPO
+[link=https://www.linkedin.com/in/antundebak/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+// row 2
+^a|image::./images/SolutionSpace_Team_04_PetarAtanasoski.png[100, 100]
+Petar Atanasovski
+
+Product Manager
+[link=https://www.linkedin.com/in/ivanbjelajac/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+// Praznoooo
+a|
+
+^a|image::./images/SolutionSpace_Team_05_NemanjaLazic.png[100,100]
+Nemanja Lazić
+
+Biz Dev Director
+[link=https://www.linkedin.com/in/nemanjalazic888/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+// row 3
+^a|image::./images/SolutionSpace_Team_06_MilanIlic.png[100,100]
+Milan Ilić
+
+Head of Partner Relations
+[link=https://www.linkedin.com/in/ilicmilan/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+^a|image::./images/SolutionSpace_Team_07_DjordjeStevanovic.png[100,100]
+Đorđe Stevanović
+
+Lead Engineer
+[link=https://www.linkedin.com/in/djordje-stevanovic-43b61091/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+^a|image::./images/SolutionSpace_Team_08_AndrejBencic.png[100,100]
+Andrej Benčić
+
+Full Stack Engineer
+[link=https://www.linkedin.com/in/andrej-bencic-3122b291/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+// row 4
+^a|image::./images/SolutionSpace_Team_09_BogdanHabic.png[100,100]
+Bogdan Habić
+
+Full Stack Engineer
+[link=https://www.linkedin.com/in/bogdan-habic-057a0659/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+^a|image::./images/SolutionSpace_Team_10_AleksandarStankovic.png[100,100]
+Aleksandar Stankovic
+
+Product designer
+[link=https://www.linkedin.com/in/astankovic144/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+^a|image::./images/SolutionSpace_Team_11_KatarinaVukoman.png[100,100]
+Katarina Vukoman
+
+Visual designer
+[link=https://www.linkedin.com/in/katarinavukoman/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+// row 5
+^a|image::./images/SolutionSpace_Team_12_AleksandarKanjevac.png[100,100]
+Aleksandar Kanjevac
+
+Web Developer
+[link=https://www.linkedin.com/in/aleksandar-kanjevac-a35758140/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+^a|image::./images/SolutionSpace_Team_13_IvanaFuks.png[100,100]
+Ivana Fuks
+
+Researcher
+[link=https://www.linkedin.com/in/ivana-fuks-751329158/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+
+^a|image::./images/SolutionSpace_Team_14_MarkoKovacevic.png[100,100]
+Marko Kovačević
+
+Advisory Board
+[link=https://www.linkedin.com/in/marko-kovacevic-84a32b70/]
+image::./images/Let’s work together_03_LinkedIn.png[20,20]
+|===
 
 == Timeline / Roadmap
 image::./images/SolutionSpace_Timeline_01_Timeline.png[]
