@@ -29,7 +29,7 @@ The time when readers used to choose a book by its cover has passed. Readers tod
 As stated before, with Amazon’s Kindle Publishing authors are paid on a 60-day basis, whereas other traditional publishing agencies pay out royalties quarterly or even twice a year. With the current system, writers need to write the entire book before selling it, which means that they have to finance themselves during that time. On top of that, once they publish the book, they have to wait even longer before starting to earn money from it. Would you really work for a company that pays your salary after two months? The whole system is not fair to writers. 
 
 If writers have an agent, the publisher will pay royalties to him, who will, of course, take the percentage agreed in the contract (usually 15-20%) and then pay the writer. The more middlemen that are in between, the less money writers earn from their books. Given that traditional royalty rates are usually between 7-25%, it is clear why more and more writers nowadays prefer being self-published. However, if they choose, for example, KDP, the highest royalty rate they can get is officially 70% although that number is a lot lower in practice, as described in the
-<<Publishing process,Publishing process section>>.
+Publishing process,Publishing process section.
 
 === Marketplace is centralized with middle-men
 
