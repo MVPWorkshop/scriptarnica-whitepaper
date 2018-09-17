@@ -1,0 +1,18 @@
+= *Welcome*
+
+Technology has advanced over the years and it has changed the way we live,
+communicate, the way we travel and learn. Almost everything we use
+has been elevated to better standards over the last decades through innovation. As people’s habits and lifestyles change, the demand for advancing the type of technology we use gets higher.
+
+That wave of technological improvements has affected almost every industry,
+even the most traditional ones. The book industry is no exception, which is reflected in the rise in e-book usage. 
+
+Only 15 years ago, the biggest publishers were saying that people will 
+never read off screens. Just a few years later, when Amazon released
+the Kindle, everything changed. 
+
+We envision a simplified publishing process, which helps both indie writers
+and publishing agencies, involves readers and their feedback even in the
+very process of writing, incentivizes improved content with easy versioning,
+and rewards all contributors through a decentralized e-book platform, 
+called Scriptarnica.

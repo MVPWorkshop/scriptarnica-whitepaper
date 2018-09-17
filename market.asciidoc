@@ -1,0 +1,76 @@
+= *Market* 
+
+=== The Book Market 
+
+According to the latest global e-book report, the world book market size is estimated at $143 billion. With this estimated value, the book publishing industry outperforms music, video games, magazines and film, and entertainment industries.The United States makes up 30% of the global book publishing market with $43 billion. Next is China with 14% (around $20 billion), Japan 7%, Germany 8% and the United Kingdom, 4%. The market is undergoing a period of change with the rising popularity of e-books.  
+
+=== E-book market
+
+25.8% of total book sales worldwide are e-book sales.
+
+[.small]#E-book sales as a percentage of total book sales worldwide in 2013 and 2018# 
+[.small]#https://www.statista.com/statistics/234106/e-book-market-share-worldwide/[(Source)]#
+
+E-book user penetration is 10.5% in 2018 and is expected to hit 11.8% by 2022, which means that the number of e-book users will rise to nearly 621 million. Also, the average revenue per user in the e-book segment amounts to $21.94, which results in a revenue of $11.8bn in 2018. According to Statista.com, it is expected that the revenue in the e-book segment will show an annual growth rate (CAGR 2018 - 2022) of 3.3% reaching $13.5bn by 2022. 
+
+According to Statista.com, the largest e-book markets (based on revenue) are concentrated in six main countries. The United States is on the top of the list with 30% of total market share. Beside the United States, there are Japan, China, the United Kingdom, and Canada. 
+
+[.small]#Largest e-book markets (based on their revenue) - Source: Statista, 2018#
+
+=== The E-book market in U.S.
+
+E-book user penetration in the U.S. has reached 27.6%, amounting to around 90 million people. The most prolific e-book readers in the US are Millennials (ages 18 to 29), making up 34 percent of all digital book readers or around 30.5 million people. As of 2016 (the latest date for which population estimates are available), Millennials numbered 71 million, and are expected to overtake Baby Boomers by population in 2019; it is anticipated that the U.S. e-book market share will undoubtedly increase in the future. Of course, Millennials stand out for their technology use, but older generations also embrace digital life.   
+
+[.small]#E-book readers in the United States in 2018, by age#
+
+In 2017, the U.S. book industry generated a total revenue of $26.23 billion. Additionally, the U.S. e-book industry has grown tremendously over the past decade (actually, most revenue is generated in the United States $5.3bn in 2018), primarily due to the higher supply and demand of e-book devices and applications, but also due to lower prices compared to hard copies (e-book editions can be from 20% in U.S. and Germany to 74% in China, cheaper than their corresponding hardcover 
+https://www.statista.com/chart/6361/ebook-pricing/[editions]). 
+
+=== Big players in the e-book market
+
+Inside the U.S. market, the most dominant player in online books and e-book retailing is Amazon. Including indie books (published without ISBNs), Amazon accounts for 83% of US e-book purchases – and the rest is almost entirely shared between the Apple iBookStore, Barnes & Noble, Kobo US and the GooglePlay Books.
+|===
+|*Country* | *Population* | *Reported Print book sales (annual 1000 units)* | *E-book sales (annual 1000 units)* | *E-book sales as % of all book sales* 
+|*United States* | 325700000 | 675000 | 487298 | 42%
+|*United Kingdom* | 65400000 | 187500 | 95623 | 34%
+|*Canada* | 36500000 | 50500 | 26017 | 34%
+|*Australia* | 24500000 | 56400 | 22463 | 28%
+|*New Zealand* | 4600000 | 5300 | 1306 | 20%
+|*5 Country Total* | *456700000* | *974700* | *632707* | *39%*
+|===
+[.small]#Total annual e-book unit sales by country in all English-Language e-book markets# 
+[.small]#http://authorearnings.com/report/february-2017/[(Source)]# 
+
+Amazon is the major retailer in just about every market, with more than 80% of English-language e-book purchases. They are followed by Apple, with 10%, Kobo 2% and Nook 3%.  
+
+As of mid-January 2016, Amazon’s US e-book sales were running at a rate of 1,064,000 paid downloads a day. Consumers spent roughly $5,755,000 a day on e-books on Amazon.com, and if we ignore the publishers’ margins, Amazon is generating  $1,756,000 a day in author revenues. The significant difference between these two numbers is the reason why authors should be very careful when choosing their publishing path, given that the author’s share of the gross consumer spend can vary between 17.5 - 70%. 
+
+=== Publisher Types
+
+[.small]#Each country's total e-book unit sales broken down by publisher type#
+[.small]#http://authorearnings.com/report/february-2017/[(Source)]#
+
+The amount of readers interested in indie books can be seen in the chart above, showing that indie authors are capturing between 20-35% of all e-book sales in each of the five English-language markets. As stated before, Amazon is generating $1,756,000 a day in author earnings, out of which 35% of this amount (i.e., $614,000) goes to indie authors. On the other hand, the Big Five are letting themselves progressively get squeezed out of nearly every English-Language e-book market.
+
+After looking at a wider picture of e-book retailers, we can conclude that the e-book market is rising in general, and indie publishing in particular. But this is not limited to the U.S. nor to a single retailer (Amazon); they are an international, industry-wide phenomena. 
+
+=== Academic publishing market
+
+Academic publishing is a subfield of publishing which distributes academic research and scholarship. Most academic work is published in the form of academic journal articles, books or theses. The academic publishing industry is generating around 
+https://www.enago.com/academy/the-world-of-academic-publishing/[$25bn] 
+annually in revenue and the world’s biggest academic research publishers are taking advantages of their privileged positions, resulting in some of them making higher profit rates than Apple. The largest publishers, such as Elsevier, Springer Nature, and Wiley-Blackwell, have published more than half of all scientific articles. Elsevier alone has generated
+https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports/relx2017-annual-report.pdf[$3.2bn] in revenue in 2017. 
+
+The most prestigious publishers collect revenue from subscriptions paid by university libraries. Additionally, publishers also bundle titles, so libraries have little choice about where to purchase individual titles. Given that those subscriptions can cost from $1,000 to $5,000, it is clear why subscription expenses represent a big part of a library’s annual budget. 
+
+The journal article publishing process:
+
+
+Although library administrators complained about paying huge sums to access research, the large publishing companies continue to attract scholars. One reason might be that the quality of the research must still be checked or certified by experts. This is done using a peer review process, the process of subjecting an author’s work, research, or ideas to the scrutiny of others who are experts in the same field before the research is published in a journal, at a conference, or in a book. However, peer review is not a democratic voting system. It is the editor who makes the final decision based on all the information available. According to the 
+https://researcheracademy.elsevier.com/sites/default/files/2017-11/Brochure_Peerreview_The-nuts-and-bolts_2015.pdf[Peer Review Survey], 90% of reviewers said they enjoy the process because they like playing their part as a member of the academic community; 85% of them said that enjoy seeing other papers and being able to improve them; while 91% of all researchers believe that their last paper was improved through the peer review process. 
+
+Currently, there is a significant difference between person’s contribution and his reward. This is proven just by looking at who the peer reviewers are and what they get for their valuable contributions. Reviewers are described as experts who volunteer their time to help improve the manuscripts they review. For their significant contribution, Elsevier, for example, offers them an opportunity to build their reputation as well as get some discounts for Elsevier’s services. 
+
+On the other hand, the current market situation is forcing universities to double-pay. Firstly, they fund the research, and then results of the research are given away for free to journal publishers. This means that a university library must pay to get the research back in the form of journals. 
+
+This is an unfair situation for several reasons: the current subscription costs are too high, decision-making power over what will be published is centralized, and contributors are not rewarded appropriately for their work.  

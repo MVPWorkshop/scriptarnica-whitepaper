@@ -1,0 +1,59 @@
+= *Legal Considerations, Risks and Disclaimer*
+
+The contents of the “Legal Considerations, Risks and Disclaimer” schedule outlines the terms and conditions applicable to you in connection with 
+
+- Your use of this White Paper and of any and all information available on the Website 
+- Your participation in the Token Sale, in each case in addition to any other terms and conditions that we may publish from time to time relating to this White Paper, the Website and the Token Sale (such terms hereinafter referred to as the “Terms”).
+
+The information set forth in the “Legal Considerations, Risks and Disclaimer” schedule may not be exhaustive and does not imply any elements of a contractual relationship. While we make every reasonable effort to ensure that all information: (i) in this White Paper; and (ii) available on the Website (collectively referred to as the “Available Information”) is accurate and up to date, such material in no way constitutes professional advice.
+
+You should not purchase SCRPT Tokens for investment purposes. Such tokens are not designed for investment purposes and should not be considered as a type of investment. You acknowledge, understand and agree that holding SCRPT Tokens is not a guarantee, representation or warranty that the holder will be able to use the Company, or receive any tokens utilized by the Company.
+
+You acknowledge and agree that you are not purchasing SCRPT Tokens for the purposes of investment, speculation, as some type of arbitrage strategy, for immediate resale or
+other financial purposes. You acknowledge that all purchases of SCRPT Tokens are final and nonrefundable, and the Company is not required to provide a refund for any reason and that you will not receive money or other compensation or any form of a refund, and you consent to no right of withdrawal from the ICO.
+
+SCRPT Tokens do not entitle you to any equity, corporate governance, dividends, voting
+or similar rights or entitlements in the Company or in any of its affiliated companies. 
+
+Tokens are sold as digital assets, similar to downloadable software, digital music and
+the like. The Company does not recommend that you purchase Tokens unless you have prior experience with cryptographic tokens, blockchain-based software and distributed ledger technology and unless you have taken independent professional advice.
+
+Citizens, nationals, residents (tax or otherwise) and/or green card holders of each of:
+(i) South Korea; (ii) the People’s Republic of China; (iii) State of Israel; or (iv) United
+States (v) any other jurisdiction which prohibits the possession, dissemination or communication of the Available Information and/or prohibits participation in the Token Sale or the purchase of Tokens or any such similar activity or any other Restricted Persons are not permitted to participate in the Token Sale.
+
+In no event shall the Company or any current or former Company Representatives be
+liable for the Excluded Liability Matters.
+
+The Company does not make or purport to make, and hereby disclaims, any representation, warranty or undertaking in any form whatsoever to any entity or person, including any representation, warranty or undertaking in relation to the truth, accuracy and completeness of any of the information set out in the Available Information.
+
+You should carefully consider and evaluate each of the risk factors and all other information contained in the Terms before deciding to participate in the Token Sale.
+
+== Risk factors
+
+The following is a summary of the risk factors in relation to the SCRPT Tokens sale and the Company in general.
+
+=== Token Sale Risks 
+
+- There is no prior market for Tokens and the Token Sale may not result in an active or liquid market for the Tokens
+- Future sales or issuance of the Tokens could materially and adversely affect the market price of Tokens
+- Negative publicity may materially and adversely affect the price of the Tokens
+- There is no assurance of any success of the Company’s business platform or any future Token functionality
+- The market price of the Tokens may fluctuate following the Token Sale
+- The private keys to the escrow wallet may be compromised and the cryptocurrencies may not be able to be disbursed
+- The Token may be significantly influenced by cryptocurrencies market trends and Token value may be severely depreciated due to unrelated events in the cryptocurrencies markets
+- The use of the Tokens may come under the scrutiny of governmental institutions
+- The ownership of Tokens may fall under new and unpredicted taxation laws that will erode Tokens benefits
+- There may be unanticipated risks arising from the Tokens
+- Applicable laws and regulations may limit the utility, functionality, the accessibility and transferability of the Tokens
+- Crowd sales have been known to come under malicious attacks from hackers and/or other parties resulting in the theft of tokens. Such events may inflict massive losses on buyers and the company
+- The user’s Wallet or Wallet service provider may not be technically compatible with the SCRPT token ERC-20 protocol and may result with a complete loss of the contribution 
+
+=== Company Related Risks
+
+- The Company may be materially and adversely affected if it fails to effectively manage its operations as its business develops and evolves which would have a direct impact on its ability to maintain or operate the Company’s business platform and/or develop structure and/or license any future Token functionality
+- The Company may experience system failures, unplanned interruptions in its network or services, hardware or software defects, security breaches or other causes that could adversely affect the Company’s infrastructure network, and/or the Company’s business platform
+- The Company may in the future be dependent in part on the location and data center facilities of third parties
+- General global market and economic conditions may have an adverse impact on the Company’s operating performance, results of operations and/or cash flows
+- The Company or the Tokens may be affected by newly implemented regulations
+- The Company may not be able to pay any anticipated rewards in the future

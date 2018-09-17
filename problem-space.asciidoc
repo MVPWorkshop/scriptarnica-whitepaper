@@ -1,0 +1,46 @@
+= *Problem space*
+
+=== Publishing process
+
+Although the general steps of the printed book publishing process are quite similar to the e-book publishing process, the whole procedure of e-book publishing is less time-consuming and in accordance with digital transformation trend. Historically, after finishing the content for their books, writers would spend a lot of time looking for agents who would then make great efforts to get a publishing deal. The whole process could last up to two years before a book gets launched. Once the deal is made, writers would lose all creative control over the book and would earn in the best cases between 7% and 25% of the books’ sales revenue. Characteristics like royalties being paid quarterly or twice a year, minimum number of copies needed to be sold before writer starts earning royalties, existence of restrictive clauses in the contract, high marketing costs publishers have to cover in order to get the attention of the public, are some of the reasons why significant changes are still necessary in this industry in order to further simplify the publishing process and help both writers and publishing agencies.
+
+In traditional publishing, the publisher handles the marketing, distribution, and warehousing for the book, whereas in self-publishing, the majority of the work and expenses falls on author’s shoulders. Although self-publishing might seem as a better choice for authors given all the freedom and control they have when deciding about their books, not to mention that the whole profit is for them, authors are still choosing traditional ways with a lot of people in the middle. But why do they prefer traditional way, when self-published indie authors are proving to be far more capable of taking advantage of their global reach to achieve commensurate international sales as compared to traditionally published authors?
+
+The biggest reasons for which authors are giving up on their freedom and control over the books are a lack of money and expertise in marketing and promotion. Also, traditional publishing usually brings out a professional version of the book, in terms of the cover, editing and suggestions for a polished final product. 
+
+Today, Amazon’s Kindle Direct Publishing gives you opportunity to have your book on sale within 24-48 hours after publishing. The whole process of publishing is very, very easy and fast, and you don’t need to invest any money. All you need to do is to finish your book and publish. Also with KDP (Kindle Direct Publishing), there are no restrictions on where or how your book is made available for sale. Sounds perfect, right? But here comes the tricky part...
+
+Amazon Kindle Direct Publishing also claim to give 30% or 70% royalties to the authors (depending on the deal), except it only applies to sales on specific territories. You must also then consider VAT, taxes, wire transfers fees, fees for cashing checks, fees for converting currencies, which in the end leads to not 30% or 70% but to lets say 41% (based on 
+https://medium.com/@FedericoPistono/traditional-vs-self-publishing-how-much-money-can-you-really-make-c5732afeabaf[experiences of authors] who went through that process). And of top of this, you have to wait 
+https://kdp.amazon.com/en_US/help/topic/G200641050[60 days] to get paid and for check and wire payments there is a minimum threshold in each marketplace after deducting the applicable tax withholding. 
+
+However, you can’t expect to get everything for free. Just by publishing on KDP, your book is not going to be available on Kindle Unlimited (Amazon’s subscription reading service for Kindle owners), you cannot use Kindle promotional tools (Kindle countdown, Kindle free e-books), and your book will not be eligible for 70% royalty earnings on sales to customers in Brazil, Japan, India, and Mexico. 
+
+If you want all of this, then you can enroll your e-book in the KDP Select program. KDP Select gives you all the benefits mentioned above just by doing one “little thing” - giving Amazon exclusive selling rights (meaning that you cannot offer your e-book to any other e-book retailer. It can only be offered for sale on Amazon – not even on your website or blog).
+
+Being an independent author, on the other hand, means doing everything on your own from editing, proofreading, cover designing to marketing and distribution, or finding professionals who can help, but then you have to be ready to pay for that.  
+
+=== Research-driven reading is expensive - Readers pay for the entire book
+
+The time when readers used to choose a book by its cover has passed. Readers today are picky, and they don't want to pay for something they will not read. With the current system, readers are obliged to pay for an entire book of which they are going to read just a couple of pages or chapters because publishers don't have a reason to offer them anything different. But, imagine university students who need to find proper information for their theses, or other researchers or scientists. They are unable to read thousands of books and select to write in a couple of pages. It wastes their time and money to get the information that is invaluable for their research and study. 
+
+=== Writers wait for a long periods of time to get their income
+
+As stated before, with Amazon’s Kindle Publishing authors are paid on a 60-day basis, whereas other traditional publishing agencies pay out royalties quarterly or even twice a year. With the current system, writers need to write the entire book before selling it, which means that they have to finance themselves during that time. On top of that, once they publish the book, they have to wait even longer before starting to earn money from it. Would you really work for a company that pays your salary after two months? The whole system is not fair to writers. 
+
+If writers have an agent, the publisher will pay royalties to him, who will, of course, take the percentage agreed in the contract (usually 15-20%) and then pay the writer. The more middlemen that are in between, the less money writers earn from their books. Given that traditional royalty rates are usually between 7-25%, it is clear why more and more writers nowadays prefer being self-published. However, if they choose, for example, KDP, the highest royalty rate they can get is officially 70% although that number is a lot lower in practice, as described in the
+<<Publishing process,Publishing process section>>.
+
+=== Marketplace is centralized with middle-men
+
+The number of middlemen between the writer and reader varies from four to six; indeed, money trickles down from the reader's bank, going into the vendor’s bank, and finally arriving at the writer’s account. The existence of all these middlemen slows the process and reduces the contact between the writer and the reader. 
+
+Most authors suffer from self-doubt and wonder if their work is good enough. That is one of the biggest reasons why they eventually choose the old school path with traditional publishers and take only a small percent of their book sales revenue. Usually, writers find the approval they need from the gatekeepers as a validation that their work is good. Since authors used to perceive that their contracts with big publishing companies were a sign of acceptance and prestige, that only resulted in long publishing processes because publishers need time to review the manuscript and assess the book’s sales potential. However, the truth is that readers are interested in the quality content above  anything else. 
+
+=== Reader wants to contribute to the quality of the book & read it before it’s done
+
+With all the technological advancements that are making our lives easier and faster, people have become used to transparent processes and want to be involved in the creation of something new. We want everything almost immediately. 
+
+That is the usual case with television series, when you can’t stop after one episode and you just want more. Just like with movies or series, best-seller books have always attracted readers, even before the book is set to be published. However, readers have to wait until the entire book is released to the market. Also, field-related books often offer chapters, independent from each other, and that can serve for students and researchers as part of their extensive literature.
+
+Involving readers in the writing process and asking for their feedback and contribution would affect the quality of the book, form the community of readers, and help writers to involve them in the ways they need (for example, to recommend a book, or do proofreading, or translate it to another language).

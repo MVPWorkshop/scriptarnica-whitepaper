@@ -1,0 +1,321 @@
+= *Solution space*
+
+=== About Scriptarnica
+
+In order to simplify the book publishing process and give writers the option to select who they need out of all the middlemen, to enable fast and cheap microtransactions that allow you to pay as you read and only for the content you need, to reward all platform contributors, to build stronger connections between writers and readers, to incentivize the quality of the content and make it the focus, to enable loyalty/karma for all participants and contributors, we are creating the very First Blockchain Based E-Book Platform.
+
+The Platform enables Writers to:
+
+- Make your book available everywhere;
+- Lean writing. Publish your work and earn from it immediately, while you write. Get feedback from your readers, engage with them during the writing process;
+- No extra costs (i.e., delivery costs) / no exclusive rights limitations;
+- Get the highest royalties;
+- Simplify the publishing process, without a middleman;
+- Get your book analytics.
+
+And it enables Readers to:
+
+- Pay only for the content that you really need;
+- Focus on your goals - research driven reading;
+- Influence the content while it’s being written, earn from your contribution (as a book reviewer, translator, designer, marketer, or book holder) and read a book before it’s done.
+
+=== Why Blockchain?
+
+- Enabling fast and cheap microtransactions
+- Eliminating middlemen
+- Enabling rewards for all platform contributors
+- Building stronger connections between writer and reader
+- Incentivizing the creation of quality content
+- Enabling loyalty/karma for all participants and contributors
+
+=== Our Users
+
+Scriptarnica is a platform for all the book enthusiasts out there. If you are a passionate reader, a talented writer, or you just want to be part of our community, Scriptarnica is for you. 
+
+=== Reader
+
+Whether you are looking for a book to read in your free time or you need a valuable piece of information for your thesis or research, Scriptarnica is designed to fulfill all your needs. The platform allows you to pay as you go only for the content that you want to read. That means you can buy only a page, a chapter or the whole book. 
+
+When a book is published on the platform, everyone can see its description, author info, reviews, ranking and pricing method. If a reader chooses to buy the whole book, Smart Contract will be triggered and tokens will be transferred from reader to writer. The reader will have full access to the book, which will be stored on IPFS and will be accessible in offline mode. However, if reader prefers reading chapter by chapter, he will be able to scroll through a table of contents to find the desired chapter and jump right into it. Now the Smart Contract will be triggered with different conditions. If a reader wants to continue reading to the next (or any other chapter), the Smart Contract will be triggered again. The same applies to the third option, except it goes page by page with a word search option. Every time an event is triggered, the reader will get a notification to confirm the transaction, or he can select the autopilot reading feature. In both cases, readers will have a visual check-up of how much they spend.
+
+Also, Scriptarnica will allow writers to publish chapter by chapter which means that readers will have the exclusive opportunity to read the book before it is even completed. However, if you are a true book lover, you don’t have to stop here. Upon joining the platform you can also become an active member of the community, contribute to the content, become a book holder and earn tokens for your meaningful contribution. 
+
+=== Writer
+
+Scriptarnica is going to completely change the book-writing experience. Its decentralized platform is designed to give all the credit back to the creators, instead to middlemen. 
+
+Writers will be able to create content on the Scriptarnica platform free of charge and choose to publish it part by part (chapter by chapter) or as a whole book for small fee. Because of all the advantages blockchain technology brings, they will be able to receive instant payments as somebody buys the book. Publishing content to the network is done by forming a Smart Contract with following information:
+
+. Book info
+. Book price
+. Single character price (serves to calculate a price per each paragraph / page / chapter)
+. Price for “work-in-progress”
+
+But that’s not all. Scriptarnica also enables writers to get higher profits and complete book analytics, and it will also create a healthy environment and direct connections between writers and readers. With the valuable feedback, authors will be able to improve their content and build their reputations. 
+
+=== Reviewer and contributors
+
+The reviewer role can be taken either by another writer or a book reader. A reviewer’s job is to take care that everything goes by the guidelines. The newly published books need to be reviewed and are going directly to the “Coming Soon / Publishing” queue, so first readers can provide their reviews and list a book as visible on the platform. Also, the writer can ask specific writer to review the book he wrote before publishing. Once published, readers will have an opportunity to influence the content, recommend the book, and rate both the book and the writer. 
+
+However, reviewing is not the only way in which you can help the network to operate. There is also a place for translators, designers, and marketers to contribute. Beside this, as Scriptarnica is going to be built using IPFS, a distributed file system that seeks to connect all computing devices with the same system of files, one can also become a book holder and earn tokens from that. 
+
+For all contributions, network members will be rewarded with SCRPT tokens that will be paid from the pool, that is to say the load from writers’ publishing fees. By joining forces, we will create an environment where quality is a priority. 
+
+=== Publishers
+
+Scriptarnica is meant to simplify the present publishing process using the advantages of blockchain technology, which means that current inefficiencies will certainly be reduced in order to move the industry in the right direction together with other industries that are already adopting blockchain solutions with a great degree of success. However, this does not mean that we are excluding publishers from the game. 
+
+New information and communications technologies present significant challenges for publishers, forcing them to revise their strategies and find new ways of engaging their readers. Reader participation and engagement is one of the main challenges publishers face. In a world of expanding opportunities, access, engagement and innovation are the turning points where publishers must cope with a series of issues and find alternative ways to move forward. 
+
+Publishing a book is a process for publishers as well as for writers, however, readers now want to access information and knowledge immediately, and as soon as possible. All this puts constant pressure on publishers, forcing them to constantly think of how to keep their market positions and increase their profits. Although it is generally thought that publishers take the majority of the money circulating in the publishing industry, the truth is that there are a lot of design, marketing and sales costs that need to be covered. For publishers to sell their books, they must have a sales force, which never comes cheap. 
+
+Scriptarnica uses technology in the best way possible to change the current situation and the position of all industry players. Together with Scriptarnica, publishers are going to open up new possibilities for their business, which means more promotion and sales opportunities, increasing profit without any additional work.
+
+=== Use Cases
+
+==== Lean writing
+
+Book can take a year or more to be written, meaning that writers have to finance themselves for the whole time they write. Additionally, as everyone, writers also sometimes need motivation to continue, or feedback or just a boost. In order to deal with these problems, Scriptarnica is introducing Lean Writing as one of the core features of the platform. This means that writers will be able to publish piece by piece of their content as they write and earn from it immediately. Also, releasing a book while it is still in the process of writing, writers will be able to get meaningful feedback from readers.
+
+==== Read and pay as you go - research driven reading
+
+This means buying a paragraph, page, chapter or a whole book, thanks to cheap and fast microtransactions. In order to do that, we need to ensure that the cost of the transaction is much less than the cost of a single paragraph. The main KPIs would be to achieve 1,000 transactions per second and a cost $0.00001 per transaction.
+
+If you are passionate about chess, this will allow you to search for specific games and players only, or you can buy all the chapters from scientific works that are related to the topic for which you are looking (e.g., integrals in mathematics, thermodynamics in physics) or to go quickly through all the materials needed for your journalist research.
+
+==== Censorship – resistant network
+
+Censorship resistance is one of the key properties that decentralized systems provide. That is also the value Scriptarnica is providing for its users, meaning that we are creating a network in which all participants are on equal footing. However, although there are no official rules for participating in Scriptarnica, we are going to create a set of desirable guidelines for contributors. The general purpose of these guidelines is to make everybody’s experience better and help ensure faster adaptation for those who are new to the network. 
+
+==== Reinvented publishing flow
+
+Scriptarnica is reinventing the current publishing flow, giving all credit back to their content creators, making the whole process a lot faster, fairer and more quality-based. The platform combines decentralization and incentivization in order to make a network where no single entity has the power to take the majority of the cake, but a network where everybody is rewarded for their work. With SCRPT, individuals earn real rewards online that are directly correlated to their contributions.
+
+=== Token Utility
+
+As described in the Problem section, the current book publishing market doesn’t put the quality of the books, writers, and community first. The market is centralized with numerous middlemen in between. That’s why Scriptarnica is designed from the ground up to change the current situation. 
+
+A peer-to-peer system will replace the traditional central database with a decentralized one, that will reduce the number of middlemen and make the market more equitable both for readers and writers. The underlying blockchain architecture is capable of processing high volumes of transactions per second, which will enable fast and effective micropayments for all kinds of contributions. Also, Scriptarnica’s pay as you go system will save readers money and time because they will have the opportunity to choose their preferable paragraphs, pages or chapters instead of purchasing the entire book. Thanks to Smart Contracts, the final price for the information will become cheaper and the whole process less time consuming. 
+
+In addition, economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new platform. 
+
+In order to build the platform with all these features, Scriptarnica is going to have two tokens: a Script token (SCRPT) and a Character token (CHR).
+
+==== Script Token (SCRPT)
+
+The SCRPT token is the currency of Scriptarnica network and a tradable right to obligate the Scriptarnica network. The main usage of SCRPT is to enable an exchange of e-books for tokens in the cheapest way possible.
+
+Writers uses SCRPT tokens to pay a small fee for publishing books, and after the book is online they can earn SCRPT tokens through the engagement generated by the book. The fee for publishing will go into the pool, which will be used to pay reviewers and other contributors. 
+
+Readers use SCRPT to buy books. When a reader buys a book, only a small fee is deducted from this transaction and goes to the platform, whereas the majority goes to the writer. 
+Reviewers earn SCRPT for reviewing books. For every book approved, honest feedback or any other form of worthwhile contribution, they will be rewarded with SCRPT tokens. 
+
+==== Character token (CHR)
+
+In order to get people closer to Scriptarnica and make it easier for everybody to use platform’s services, Scriptarnica will have Character (CHR) tokens in addition to Script tokens. 
+
+In spite of the rising popularity of crypto and a decentralized world, a lot of people still find it very hard to understand what it really means, which is the main reason why many very good projects don’t make it off the ground. The main purpose of CHR token and the Burn and Mint Equilibrium method underpinning it is to keep a book’s price intact by the tradable token and enable book lovers that don’t hold cryptocurrency to use the network. Because of this, non-crypto readers will be able to buy a book for fiat (traditional currency). 
+
+=== Token Economy
+
+We are building Scriptarnica, a decentralized platform for reading, writing, publishing, selling, and buying e-books. In order to run smoothly, the platform will have two tokens, tradable SCRPT token and CHR token, that are for internal use only. What does this actually mean?
+
+Upon joining the network, readers will be able to see the full book offer that is available on our platform as well as all accompanying information for every book. If they decide to buy a book, all they have to do is to exchange tokens for the book. However, if a reader is not part of the crypto community, he will be able to pay for that book with fiat, like everywhere else. And, yes, that is actually the only thing he has to do. For passionate readers who are not interested in crypto, the most important thing is that process of getting a book should be as simple as possible. So, Scriptarnica is going to provide that simplicity to its users and do the rest for them. 
+
+==== The Burn & Mint Equilibrium
+
+In the BME model, users who want to use a service do not directly pay a counterparty to use the service. Rather, users burn tokens. Once fiat gets into the Scriptarnica system, a proportional amount of SCRPT tokens will be bought (a service that will be provided by a third party bookstore app for a small fee) and burned. At the same time as SCRPT tokens get burned, the user is getting CHR tokens that he can use to actually buy a book. CHR tokens keep the book price constant as they are tied to the dollar price of the book. 
+
+- If one SCRPT is worth $1 and you burn it, you get 100 CHR
+- If one SCRPT is worth $10.00 and you burn it, you get 1,000 CHR
+
+So, the actual number of CHR tokens that a user will get depends on the number of burned SCRPT tokens. CHR tokens are not transferable and you can’t turn them back into SCRPT. You can only use them to buy a book. 
+
+In parallel to the token burning process, the protocol will mint the specific amount of burned SCRPT tokens and send them to Smart Contracts to be redistributed to service providers - writers, book holders, reviewers, whereas only small percent will go back into the platform. Theoretically, the minting process happens in defined periods of time, which might lead to the following scenarios: 
+
+- If # of tokens burned > # of tokens of minted - price should increase
+- If # of tokens burned < # of tokens of minted - price should decrease
+
+It seems that this model could create situations in which service providers are under or overpaid. However, in practice, if the system is running near an equilibrium state, then service providers will be paid the appropriate amount. Because if the price of SCRPT tokens increase, fewer tokens need to be burned to purchase the same amount of service, in our case books, bringing the system back into equilibrium. Let’s assume the following:
+
+Book= $10=1000 CHR
+
+. 1 SCRPT= $10	$10→	1 SCRPT  	→	1000 CHR→	Book
+. 1 SCRPT= $12	$10→	0.83 SCRPT	→	1000 CHR→	Book
+. 1 SCRPT= $08  $10→	1.25 SCRPT	→	1000 CHR→	Book
+
+Additionally, the burn-and-mint model creates a model in which linear growth in usage of the network causes linear, non-speculative growth in the value of the token. 
+
+As shown in the calculation above, CHR value is tied to the dollar price of the book. However, SCRPT is actually pegged to company’s value. In order to have a token with a potential to grow in value over time, it is necessary to have a healthy and stable economy in the background. Although a token’s price depends on several factors, such as hype, trust, token utility and other market factors, the price also depends on the velocity. 
+
+Ideally velocity is maintained within a range: too low is as damaging as too high. Given the main purpose of the Scriptarnica platform, it is expected that people will exchange their SCRPT tokens for fiat in order to get paid for their work, but one more way of earning money would mean holding some percentage of tokens in order to earn on the future value. The challenge faced by Scriptarnica is to find right levers that could be used to adjust velocity. These all involve incentivizing token-users to hold onto their tokens for an extended period of time. One of the ways to balance the velocity is by introducing staking functions into the protocol. 
+
+Staking SCRPT tokens is required as a membership for writers in order to publish books on the Scriptarnica platform. Reviewers, book holders and other contributors must also stake if they want to perform work on the platform. Besides staking for the membership, they will also be incentivized to stake tokens in order to have an opportunity to benefit from the future value. 
+As long as books are being bought on the platform, burn-and-mint will ensure high returns to those people staking the coin, which means that readers also could look at staking SCRPT as an investment mechanism. 
+
+For projects that implement the BME model, it is necessary to get their tokens into the hands of millions of people so that end users can use the service. This means a lot of business development activities as well as marketing and partnerships.
+
+=== Guidelines
+
+Although there are no official rules for participating on Scriptarnica’s network, we propose a set of guidelines for reviewers in order to make everybody’s experience with our platform better and easier. 
+
+Reviewers are as valuable to Scriptarnica’s network as the writers are. They are going to help our platform operate without problems. The job of the reviewer is to review the book as soon as it becomes live on the platform. The first one who reviews the book will get 50% of the funds as a reward, after which every other reviewer will get an appropriate reward depending on how many of reviewers were before him. 
+
+Although it will be completely free for writers when it comes to writing and publishing their books on Scriptarnica, reviewers on the other hand are those who will go over the book and suggest possible improvements whether in terms of content or format.
+
+A reviewer should:
+
+- Act and make every contribution in “good faith” 
+- Review the book as soon as it becomes live on Scriptarnica’s platform
+- Suggest book’s format improvements according to the standard layout 
+- Audit the book in order to check whether it contains any questionable information 
+- Report the book if it is flagged for containing that kind of information 
+
+==== Reputation
+
+Scriptarnica is envisioned to be a network and one place for all the book enthusiasts. In order to create a healthy environment and positive communication among all platform users, it is necessary for everybody to act in “good faith”. The contributions users make and the actions they take are going to build their reputation on the platform. When reviewing a book, reviewers are encouraged to make constructive and valuable suggestions otherwise they can ruin their reputation on the platform. 
+
+==== Book Format
+
+No matter how creative writers are with their content, writers usually follow a standard format when organizing or formatting the book, the book’s layout. A book layout includes a front cover, a book’s prefatory material, its content, end material, and a back cover. For every book available on Scriptarnica platform, the reader will be able to see a complete layout with a price tag for every part of it, as well as the price of the paragraphs and the whole book. This means that some parts of the layout are going to be free whereas for some of them (premium sections) will naturally be payable. In order to facilitate the whole process of setting a book’s price (as well as its parts), it is recommended for writers to follow above-mentioned layout. Once published, reviewers should be the ones in charge of making suggestions for format improvements.
+
+==== Book’s layout
+
+===== Front cover
+
+The essential elements of a front cover include book’s title and the author’s name. Optional elements include a subtitle (if there is any), photos, background images, or graphics. It is the first thing potential readers will see, so it has to be professional and to communicate the right message. 
+
+===== Prefatory material
+
+It includes all textual material after the front cover but not part of the book’s content with some important information about the author and publisher. It consists of title page, publisher data, dedication, acknowledgments, table of contents and forward.
+
+===== Book’s content
+
+It is the body of the book. Here we have an introduction or prologue and the actual chapters. Also, sometimes the body will end with a conclusion that can also be in forms of epilogue, afterword or postscript.
+
+===== End matter 
+
+It is usually used to offer readers further supplementary information about the book or story. It could include appendix, indices, sets of tables, diagrams, glossary, biography, and list of cited works. 
+
+===== Back cover 
+
+It is usual place for taglines, blurbs, testimonials, a photograph of the author, book’s ISBN. 
+
+This is the standard layout that has developed over time. It is absolutely fine for writers to be creative and add in every part whatever they find important. 
+
+The front cover, prefatory material, biography, and back cover are going to be free of charge to all users. 
+
+==== Content
+
+Scriptarnica is a platform resistant to censorship, meaning that there are not going to be formal restrictions for writers on what may and what may not be published on Scriptarnica network. However, this does not mean that the users should be exposed to abusive content. In order to secure that Scriptarnica’s community members rate the writers, suggest improvements, or flag it if the book contains any kind of disturbing information. Also, an opportunity to build the reputation on the platform means that there is a strong disincentive for authors to post anything controversial. 
+
+The network is one that will actually make decisions on the content. However, in order to help writers have a sense of whether a book is worth publishing or not we put together these guidelines with the intention to be helpful. These could be understood as a practical set of standards assembled with the purpose of protecting the experience and safety of every audience member.
+
+Guidelines as to what content is not welcome on Scriptarnica: 
+
+- Pornography or offensive depictions of graphic sexual acts
+- Content that advocates committing a terrorist act, incites violence, or celebrates terrorist attacks
+- Encouraging illegal activities, sales of explosives, firearms, ammunition, certain firearms accessories or drugs
+- Hate speech and misleading content that harasses other people on the basis of race, ethnicity, national origin, sexual orientation, gender, age, disability or serious disease
+- Content that violates laws or copyright, trademark, privacy, publicity or other rights
+
+==== Pricing 
+
+Pricing method is fairly self-explanatory and based on the number of paid characters in the book. When we deduct the free characters from the total number of the book’s characters, we get the total number of premium characters. Book’s price divided by the number of premium characters gives us the price per character. This means that the price of the premium content depends on how many premium characters are in that part, e.g., the price of a chapter equals the character price multiplied by the number of characters in that chapter. The same process is repeated when we need the price of a paragraph – the price of a character multiplied by the number of characters in that paragraph. An image costs as an average paragraph in that book.
+
+=== Technology Architecture
+
+==== Book Storage
+
+Once purchased, a book has to be distributed in some way to the buyers' device. Where and how will the book data be stored? How easy will it be to edit the books?
+
+===== Requirements
+
+For an evaluation of different decentralized storage platforms, we focused on the following requirements:
+
+- It should be able to store books in a decentralized fashion
+- It should be able to secure the books from unauthorized access
+- It should allow for anyone to host books (encrypted)
+- It should allow a free preview of the table of contents and the first paragraph of each chapter. It should allow the author to write/update his books on the platform
+- It should allow for granular purchasing of books (word, paragraph, chapter, section, book)
+- It should be able to full-text search all the books on the platform
+
+If we think of the book in terms of its organizational structure, we can see that the book is essentially a tree of data, where the table of contents represents the nodes in that tree. We can make use of that tree to store data hierarchically on any decentralized platform with a couple of interesting features. 
+
+A tree of data fits perfectly with the chunked nature of a file on a peer-to-peer network, and with a relatively simple protocol, we can structure those chunks to create a hierarchy that can be both accessed in its entirety and traversed through the book structure so only a part of the content can be retrieved.
+
+Example: +
+_If we want to access the whole book, we read the full tree representation of the book depth first. Alternatively, we can also access just one section by getting the section node and downloading all subsection depth first. The same can be done for a chapter inside a section. We can see that we can fully access the book at any level by downloading all the subsections below it._ 
+
+We can see that we can fully access any part of the book by retrieving all the subsections below it. This can enable us to provide a dynamic book structure, without forcing us to provide a standard for laying out books.
+
+==== Security
+
+Another useful property of the hierarchical nature of a tree is that we can use Key Derivation Functions to fully encrypt a book with only one key, while still being able to decrypt any part of the book by deriving keys along the tree to obtain a private key for just that section. While this simplified to the number of keys that we have to remember, it also helps us save storage, by converting all the sub keys into one parent key (which can derive all sub keys again) once all the subsections of a node are purchased/unlocked.
+
+For a complete book security solution, we are looking at a couple of key questions:
+
+- Can the “at rest” data be accessed in plain text?
+- How will a book be accessed once purchased? 
+- How hard is it to share the book to unauthorized entities once purchased?
+- How does sharing a part of the book differ from sharing the whole book?
+- What are the memory and performance implications of the solution?
+- Is the solution centralized or not?
+
+In order to further protect our authors from book theft, we will take advantage of proxy re-encryption to distribute books to buyers encrypted under their own private key. In this way, if a leak occurs, we will know exactly which key leaked, and will be able to prevent further book distribution via that specific key.
+
+==== Distribution, book purchase and ownership
+
+We can distribute and regulate access to books by splitting book purchase and book access into two separate actions. 
+
+When the user first buys the book, a re-encryption key is generated for that user, and then it is distributed across our network. The user then asks the network for access to the book, and the network having information of whether the user bought the book or not, can choose to re-encrypt the requested book and distribute it to that user.
+
+By enabling only the network to perform the re-encryption, we add a safeguard against potentially abusive behavior. The network acts as a sort of a referee between the user and the books.
+
+Since it would be inefficient and expensive to perform all platform logic on the main Ethereum network, we need to find a way to provide a trusted mechanism for improving the performance and cost effectiveness of our solution.
+
+There are a couple of potential solutions that can be explored initially:
+
+- Ethereum Plasma Can we leverage work being done on Ethereum Plasma to provide a similar experience?
+- Side Chain Carrying over from Plasma, what are our options for a Side Chain and is there any relevant technology being developed in that area?
+- State Channels Can any of the existing state channels serve our purpose, or is the creation of our own custom state channel a valid alternative?
+
+The exact definition of our network setup and incentive mechanisms is still to be determined.
+
+== Token Distribution
+
+*Token name:* SCRPT +
+*Total token supply:* 12,000,000 +
+*Token type:* ERC20
+
+We are aware that the network is best served when as many tokens as possible are held by the actual users of the network. With this in mind and knowing that for projects implementing the BME model it is necessary to get their tokens in the hands of as many people as possible, Scriptarnica will have an ICO with an eye to attracting many small investors. 
+
+=== Token distribution plan
+
+Due to the reasons mentioned above, 70% of tokens will be available for token sale out of which:
+
+- 38.5% of SCRPT will be available for Private Sale investors
+- 28.0% of SCRPT will be available for Public Sale 
+3.5% of SCRPT will be allocated to Seed Round Investors 
+
+*Lock-up period for private sale investors and public sale investors: three months after the coin listings +
+*Lock-up period for seed round investors – three months post ICO
+
+Another 30% of tokens are going to be distributed among Advisors (3%), Partners (3%), Team (9%), Bounty and Rewards (5%) and Operations (10%). + 
+* Employee, Partner and Advisors tokens are held in three allotments. The first allotment will be unlocked six months after the Token Generation Event. Second and third allotments are tied to platform development milestones and platform adoption. 
+
+For more information, you can check our 
+https://docs.google.com/spreadsheets/d/1jQLuu_XJpCJ3koj1MzGTUuTvTNvUQ0q0aCGLui-oh3w/edit#gid=2134074574[Token Distribution document].
+
+== Use of Funds
+
+*Fundraising goal:* 	$8,321,250 +
+*Soft cap:*		$2,000,000
+
+We have developed a specific, concrete plan for the use and allocation of revenue from the token sale. Funds raised during the Token sale event will be used solely for the development and benefit of the Scriptarnica network. 
+
+Scriptarnica will use 33.2% of the funds for the platform’s development. 37.4% of the funds will be used for promotional and marketing activities, whereas the remaining 29.4% of the funds will be used for covering operational (16.4%) and legal expenses (13%).
+
+== Team
+
+== Timeline / Roadmap
