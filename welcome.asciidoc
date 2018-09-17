@@ -17,4 +17,4 @@ very process of writing, incentivizes improved content with easy versioning,
 and rewards all contributors through a decentralized e-book platform, 
 called Scriptarnica.
 
-image::./images/Welcome_01_BooksIllustration.png[]
+image::images/Welcome_01_BooksIllustration.png[]
