@@ -340,7 +340,7 @@ image::./images/SolutionSpace_UseOfFunds_01_IcoFundsUtilization.png[]
 Scriptarnica will use 33.2% of the funds for the platform’s development. 37.4% of the funds will be used for promotional and marketing activities, whereas the remaining 29.4% of the funds will be used for covering operational (16.4%) and legal expenses (13%).
 
 == Our people
-[cols="1,1,1",frame=none,grid=none]
+[cols="1,2,1",frame=none,grid=none]
 |===
 // row 1
 ^a|image::./images/SolutionSpace_Team_01_IvanBjelajac.png[100,100]
