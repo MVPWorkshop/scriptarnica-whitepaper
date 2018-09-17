@@ -21,12 +21,29 @@ And it enables Readers to:
 
 === Why Blockchain?
 
-- Enabling fast and cheap microtransactions
-- Eliminating middlemen
-- Enabling rewards for all platform contributors
-- Building stronger connections between writer and reader
-- Incentivizing the creation of quality content
-- Enabling loyalty/karma for all participants and contributors
+[frame=none,grid=none]
+|===
+^.^a| image::./images/SolutionSpace_WhyBlockchain_01_EstablishingFastAndCheap.png[100, 100]
+Enabling fast and cheap microtransactions
+
+.3+ ^.^a|image::./images/SolutionSpace_WhyBlockchain_02_EliminatingMiddlemen.png[100, 100]
+Eliminating middlemen
+
+.3+ ^.^a| image::./images/SolutionSpace_WhyBlockchain_03_EnablingRewards.png[100, 100]
+Enabling rewards for all platform contributors
+
+.3+^.^a| image::./images/SolutionSpace_WhyBlockchain_04_BuildingStronger.png[100, 100]
+Building stronger connections between writer and reader
+
+
+.3+^.^a|image::./images/SolutionSpace_WhyBlockchain_05_IncentivizingQuality.png[100, 100]
+Incentivizing the creation of quality content
+
+.3+^.^a| image::./images/SolutionSpace_WhyBlockchain_01_EstablishingFastAndCheap.png[100, 100]
+Enabling loyalty/karma for all participants and contributors
+
+|===
+
 
 === Our Users
 
@@ -119,6 +136,8 @@ In spite of the rising popularity of crypto and a decentralized world, a lot of 
 === Token Economy
 
 We are building Scriptarnica, a decentralized platform for reading, writing, publishing, selling, and buying e-books. In order to run smoothly, the platform will have two tokens, tradable SCRPT token and CHR token, that are for internal use only. What does this actually mean?
+
+image::./images/SolutionSpace_TokenEconomy_01_TokenFlowDiagram.png[]
 
 Upon joining the network, readers will be able to see the full book offer that is available on our platform as well as all accompanying information for every book. If they decide to buy a book, all they have to do is to exchange tokens for the book. However, if a reader is not part of the crypto community, he will be able to pay for that book with fiat, like everywhere else. And, yes, that is actually the only thing he has to do. For passionate readers who are not interested in crypto, the most important thing is that process of getting a book should be as simple as possible. So, Scriptarnica is going to provide that simplicity to its users and do the rest for them. 
 
@@ -290,6 +309,8 @@ The exact definition of our network setup and incentive mechanisms is still to b
 
 We are aware that the network is best served when as many tokens as possible are held by the actual users of the network. With this in mind and knowing that for projects implementing the BME model it is necessary to get their tokens in the hands of as many people as possible, Scriptarnica will have an ICO with an eye to attracting many small investors. 
 
+image::/images/SolutionSpace_TokenDistribution_01_TokenDistribution.png[]
+
 === Token distribution plan
 
 Due to the reasons mentioned above, 70% of tokens will be available for token sale out of which:
@@ -314,8 +335,11 @@ https://docs.google.com/spreadsheets/d/1jQLuu_XJpCJ3koj1MzGTUuTvTNvUQ0q0aCGLui-o
 
 We have developed a specific, concrete plan for the use and allocation of revenue from the token sale. Funds raised during the Token sale event will be used solely for the development and benefit of the Scriptarnica network. 
 
+image::./images/SolutionSpace_UseOfFunds_01_IcoFundsUtilization.png[]
+
 Scriptarnica will use 33.2% of the funds for the platform’s development. 37.4% of the funds will be used for promotional and marketing activities, whereas the remaining 29.4% of the funds will be used for covering operational (16.4%) and legal expenses (13%).
 
 == Team
 
 == Timeline / Roadmap
+image::./images/SolutionSpace_Timeline_01_Timeline.png[]

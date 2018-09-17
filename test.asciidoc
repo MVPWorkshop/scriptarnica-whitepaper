@@ -1,0 +1,21 @@
+[cols="1,1,1"]
+|===
+|
+Firefox
+dasdas
+
+|Browser |Mozilla
+|desc |desc |desc
+
+|Firefox |Browser |Mozilla
+|desc |desc |desc
+|===
+
+
+[cols="e,m,^,>s"]
+|===
+|1|2 |3 |4
+|5 2.2+|6 .3+
+|8
+|9 2+>|10
+|===
