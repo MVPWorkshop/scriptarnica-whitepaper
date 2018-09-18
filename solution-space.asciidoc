@@ -21,29 +21,23 @@ And it enables Readers to:
 
 === Why Blockchain?
 
-[frame=none,grid=none]
-|===
-^.^a| image::images/SolutionSpace_WhyBlockchain_01_EstablishingFastAndCheap.png[100, 100]
-Enabling fast and cheap microtransactions
+.Enabling fast and cheap microtransactions
+image::images/SolutionSpace_WhyBlockchain_01_EstablishingFastAndCheap.png[300,300]
 
-.3+ ^.^a|image::images/SolutionSpace_WhyBlockchain_02_EliminatingMiddlemen.png[100, 100]
-Eliminating middlemen
+.Eliminating middlemen
+image::images/SolutionSpace_WhyBlockchain_02_EliminatingMiddlemen.png[300,300]
 
-.3+ ^.^a| image::images/SolutionSpace_WhyBlockchain_03_EnablingRewards.png[100, 100]
-Enabling rewards for all platform contributors
+.Enabling rewards for all platform contributors
+image::images/SolutionSpace_WhyBlockchain_03_EnablingRewards.png[300,300]
 
-.3+^.^a| image::images/SolutionSpace_WhyBlockchain_04_BuildingStronger.png[100, 100]
-Building stronger connections between writer and reader
+.Building stronger connections between writer and reader
+image::images/SolutionSpace_WhyBlockchain_04_BuildingStronger.png[300,300]
 
+.Incentivizing the creation of quality content
+image::images/SolutionSpace_WhyBlockchain_05_IncentivizingQuality.png[300,300]
 
-.3+^.^a|image::images/SolutionSpace_WhyBlockchain_05_IncentivizingQuality.png[100, 100]
-Incentivizing the creation of quality content
-
-.3+^.^a| image::images/SolutionSpace_WhyBlockchain_01_EstablishingFastAndCheap.png[100, 100]
-Enabling loyalty/karma for all participants and contributors
-
-|===
-
+.Enabling loyalty/karma for all participants and contributors
+image::images/SolutionSpace_WhyBlockchain_01_EstablishingFastAndCheap.png[300,300]
 
 === Our Users
 
