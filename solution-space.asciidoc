@@ -346,114 +346,125 @@ Ivan Bjelajac - CEO
 [link=https://www.linkedin.com/in/ivanbjelajac/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-He is passionate about developing products, systems, and working with people dedicated to building flat organizations in his search for game-changing brands that improve consumers’ lives.
-Ivan’s engineering background is in DevOps, System Engineering and Customer Support Analytics, and while he says he is a semi-retired and washed up engineer we still sometimes refer to him when we need a fresh pair of eyes to solve a problem related to basic software engineering concepts.
+Driven by a search for game-changing brands that improve consumers’ lives.
+
+Interested in Blockchain, Tokenization-based Business Models that actually work, and Blockchain Product Development.
+
+Ivan has been a part of the Tech Industry for 17 years, either as an Engineer, Tech Executive or a company Founder.
+
+He was voted one of the "30 under 30" most successful Serbian entrepreneurs in 2011.
+
+He contributed to building Devana Technologies - one of the most successful Serbian tech companies. Their SaaS ManageWP was acquired by GoDaddy, one of the biggest hosting companies in the world, and for two years Ivan was the Operating Director of GoDaddy Europe.
+
+Ivan is the President of Serbian Blockchain Initiative, as well as Partner and Board Member at Serbian Venture Network.
+
 
 image::images/SolutionSpace_Team_02_MalisaPusonja.png[]
 Mališa Pušonja - CTO
 [link=https://www.linkedin.com/in/malisapusonja/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-A research and development engineer armed with Masters
-degrees in both Genetic Algorithms and Philosophy, Pusonja is a
-dynamic professional with nearly a decade of experience. On
-behalf of Devana Labs, he built Lemon e-mail - world's first
-encrypted and decentralized e-mail service, which further
-deepened his knowledge and interest in this exponentially
-growing field of technology. After a successful career in software
-development, Mališa became an expert and lead of Blockchain
-R&D teams. As a CTO of MVP Workshop, he is in charge of the
-whole technical team, processes, culture and various
-blockchain-based products and their architectures. Due to his
-unique set of skills that involve data science, engineering, and
-philosophy, Mališa is considered as a leading Blockchain R&D
-expert, internationally. His great passion lies in developing
-products that create new business value and are technically
-innovative. A philosopher at heart, Mališa perceives technology
-as the catalyst for change and is curious to witness how his
-team’s local efforts will contribute to making global changes.
+An ardent engineer motivated to find new patterns and a whole new world.
+In love with naming things that no one has named before.
+
+Mališa started his R&D adventure as a teaching assistant at Faculty of Computer Science, at the Genetic Algorithms course. He continued working as a developer of various small plugins, while writing his Ph.D. dissertation in Philosophy of Computer Science.
+
+After a successful career as a Lead Developer and Director of Engineering, Mališa became a true expert and leader of Blockchain R&D teams and engineering processes. On behalf of Devana Labs, Mališa built Lemon e-mail - world's first encrypted and decentralized e-mail service, using Ethereum & IPFS decentralized platforms.
+
+As a CTO at MVP Workshop, Mališa’s daily tasks include building bridges and network with blockchain community, managing current cryptocurrency and ICO operations, and overseeing the Blockchain architecture.
+
 
 image::images/SolutionSpace_Team_03_AntunDebak.png[]
 Antun Debak - CPO
 [link=https://www.linkedin.com/in/antundebak/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-He is a designer with over 13 years of experience. His current focus is on building digital products with a special attention on designing beautiful and functional interactive experiences. He has skills ranging from graphic design and coding to product design and entrepreneurship.
-He is very busy oriented and efficient and rarely throws any tantrums. His colleagues usually consider him the calm voice of reason they can always rely on. Antun has been on both sides. From freelancing and aiding small startups and design agencies to working with big players and on full product lifecycle projects - it's safe to say that he knows how to balance both sides and get the best out of them.
+Designer and product person with over 13 years of experience with a focus on building digital products. He has been on both sides. From freelancing and aiding small startups and design agencies to working with big players and on full product lifecycle projects - he has basically seen it all. Antun loves challenges and the ability to push the boundaries of the unknown.
+
+His specialties are Creative direction, Brand management, Product management, UI design, UX design, IxD, Visual Communication, Typography, Information Architecture, Visual Design, Project management, Product development, Blockchain technology, Marketing strategy, Company culture, Team leading, Web analytics, Basic knowledge of HTML/CSS, Event planning and organization, Bands promoter.
+
 
 image::images/SolutionSpace_Team_04_PetarAtanasoski.png[]
 Petar Atanasovski - Product Manager
 [link=https://www.linkedin.com/in/petaratanasovski/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
+Passionate about developing people, products and effective organizations which lead to outstanding customer experience.
+
+Product Manager at MVP Workshop, a Blockchain Solution Provider, specialized in Decentralized Business Models, Tokenization of Assets and Research & Product Development.
+
+He is the Product Owner at Scriptarnica.
+
 Co-founder and Product Owner at Blockademy, e-learning platform that supports people to dive into the blockchain world and become blockchain experts in their profession.
+
 Former Head of Customer Happiness department at GoDaddy (ManageWP and Devana Technologies), responsible for Web Professionals experience, former president of AIESEC in Serbia, love water polo (former water polo player and coach), boats, playing guitar and exploring new business trends.
-Studied informatics at Faculty of Mathematics in Belgrade, Executive MBA student at COTRUGLI Business School.
+
+Graduated informatics at Faculty of Mathematics in Belgrade and Executive MBA at COTRUGLI Business School.
+
 
 image::images/SolutionSpace_Team_05_NemanjaLazic.png[]
 Nemanja Lazić - Biz Dev Director
 [link=https://www.linkedin.com/in/nemanjalazic888/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-Nemanja has hands-on experience for projects over 25 Million $ with full P&L responsibility.
-We had to bring him over from our partner Trizma where he was in charge of Business Development and Marketing, as both sides learned he was much more passionate about Blockchain than about BPO.
-His primary experience comes from premium automotive industry where he had to deal with stuff like general management, country and regional management, sales & marketing, premium car sales, dealer network development, digital marketing, outsourcing, user experience UX, data analytics, IoT, telematics, connected vehicles, software development projects and many other hi-tech words.
+Dedicated to delivering impeccable business results, while building strong teams and helping them achieve their highest potential.
+
+On a mission to explore new emerging technologies, and find and create products and services that will reshape the World as we know it.
+
+Creative strategist, with capability from planning to execution and an eye for innovation.
+
+Nemanja has an extensive experience in the world of business, acquired through multiple positions in South East European markets and the multinational environment through his work with BMW Group and largest regional BPO provider.
+
+Nemanja has mastered the art of developing and executing effective marketing and sales strategies as well as communicating company purpose and values in a way that leads to great outcomes.
+
+As a Business Development Director at MVP workshop, Nemanja is focused on change management and above all purpose, that is - building blockchain products that actually work. His personal interest lies in the tokenization of assets.
+
 
 image::images/SolutionSpace_Team_06_MilanIlic.png[]
 Milan Ilić - Head of Partner Relations
 [link=https://www.linkedin.com/in/ilicmilan/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-Since he was seven, he has been involved in his family's business focused on custom handmade shoes manufacturing where he learned to meet customers' needs and fulfill their desires.
-He had a chance to work at Devana Technologies with Ivan Bjelajac and Mališa Pušonja and that is where he learned about Growth Hacking and digital products before moving on to become a Product Manager (Digital, Multimedia and Applications) at Vip mobile.
+Since he was seven, Milan has been involved in his family's business focused on custom handmade shoes manufacturing where he learned to meet customers' needs and fulfill their desires.
+
+He had a chance to work at Devana Technologies and that is where he learned about Growth Hacking and digital products before moving on to become a Product Manager (Digital, Multimedia and Applications) at Vip mobile.
+
+He is inspired by Carlos Ghosn's quote "You don't build your character by doing what everybody else is doing", and tries to create new value both for himself and others.
 
 image::images/SolutionSpace_Team_07_DjordjeStevanovic.png[]
 Đorđe Stevanović - Lead Engineer
 [link=https://www.linkedin.com/in/djordje-stevanovic-43b61091/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-Đorđe has been working as a software engineer for past 5
-years. Fluent in several programming languages, he has
-valuable experience in working with both backend and
-frontend web development technologies, as well as
-managing databases. He has been a Core contributor to
-Blockstack and works in the field of Ethereum Smart Contract
-Development / DApps. Đorđe is known for his outstanding
-organizational and leadership skills and has a proven track
-record of successful contributions in leading MVP teams
-working on Skriptarnica and Celsius app projects. He is proud
-to be part of MVP workshop and together with rest of the
-team work on developing blockchain solutions and
-contribute to establishing the standards in this exponentially
-growing field of technology. His spare time Đorđe spends
-with the family and he is passionate about all sorts of
-vehicles.
+Đorđe has been working as a software engineer for past 5 years. Fluent in several programming languages, he has valuable experience in working with both backend and frontend web development technologies, as well as managing databases.
+
+He has been a Core contributor to Blockstack and works in the field of Ethereum Smart Contract Development / DApps. Đorđe is known for his outstanding organizational and leadership skills and has a proven track record of successful contributions in leading MVP teams working on Scriptarnica and Celsius app projects.
+
+He is proud to be part of MVP Workshop and together with rest of the team work on developing blockchain solutions and contribute to establishing the standards in this exponentially growing field of technology. His spare time Đorđe spends with the family and he is passionate about all sorts of vehicles.
+
 
 image::images/SolutionSpace_Team_08_AndrejBencic.png[]
 Andrej Benčić - Full Stack Engineer
 [link=https://www.linkedin.com/in/andrej-bencic-3122b291/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-Driven and hardworking young software engineer (in training)
-who has been studying the field since 2009. Andrej has a
-comprehensive academic knowledge of Java, C and C++ and
-working experience with PHP (Laravel), MySQL and Javascript.
-He is curious about private blockchain and hyperledger and
-strives to advance his knowledge in this fields. With an agile
-approach to problem solving, he tries to be prepared sooner
-rather than later, learn from his mistakes, and quickly adapt
-to new situations. With ࠀࠀ hackathons and 8 awards behind,
-Andrej is an experienced hackathon competitor who highly
-values teamwork and perceives it as crucial factor for the
-success. In his spare time, he enjoys playing sports and
-board games with his friends.
+Driven and hardworking software engineer who has been studying the field since 2009. Andrej has both academic knowledge and working experience with Java, C, C++  PHP (Laravel), MySQL and Javascript.
+
+After several years working as a freelancer and building his own startup with friends, he decided to join ManageWP. He worked in ManageWP team for three years, first as part of Devana Technologies and then as part of GoDaddy.
+
+He is curious about private blockchain and hyperledger and strives to advance his knowledge in these fields. With an agile approach to problem solving, he tries to be prepared sooner rather than later, learn from his mistakes, and quickly adapt to new situations. With 11 hackathons and 8 awards behind, Andrej is an experienced hackathon competitor who highly values teamwork and perceives it as crucial factor for the success. In his spare time, he enjoys playing sports and board games with his friends.
+
 
 image::images/SolutionSpace_Team_09_BogdanHabic.png[]
 Bogdan Habić - Full Stack Engineer
 [link=https://www.linkedin.com/in/bogdan-habic-057a0659/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-Add details
+A Software Engineer who has a great interest in distributed systems and the people side of software. He is passionate when it comes to enabling his team and sharing knowledge. An occasional speaker and all around too much information type of person.
+
+Although they both have unique roles and contribution in our team, he is Andrej’s best friend and it looks like they are always partners in crime. For that reason it doesn’t look strange that they shared similar career paths - Bogdan worked as a freelancer and after building his own startup for several years, he decided to join ManageWP. He worked in ManageWP team for three years, first as part of Devana Technologies and then as part of GoDaddy.
+
+Obsessed with optimization and software architecture, he likes spending his time discussing best practices. You will often hear him talking about technologies that no one else heard about (yet).
 
 image::images/SolutionSpace_Team_10_AleksandarStankovic.png[]
 Aleksandar Stankovic - Product designer
@@ -461,7 +472,10 @@ Aleksandar Stankovic - Product designer
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
 Aleksandar is coming from a product management, marketing and economics background which makes him a great fit to bridge the needs between business and aesthetics/usability.
-He enjoy problem solving and likes to be included in the whole product lifecycle process, working closely with all the managers and engineers on a day to day basis. In that way, he’s able to ensure that his designs will be implemented in the best possible way, but in the same way delight users and grow the business.
+
+He enjoys problem solving and likes to be included in the whole product lifecycle process, working closely with all the managers and engineers on a day to day basis. In that way, he’s able to ensure that his designs will be implemented in the best possible way, but in the same way delight users and grow the business.
+
+On a personal note, he enjoys listening grunge music, visiting festivals and traveling around Europe.
 
 image::images/SolutionSpace_Team_11_KatarinaVukoman.png[]
 Katarina Vukoman - Visual designer
@@ -469,31 +483,45 @@ Katarina Vukoman - Visual designer
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
 Katarina is a graphic designer curious about innovative ways of blending beauty and usability. When it comes to design - she's passionate about brand and visual identity, typography, infographics and print.
+
 Katarina graduated Architecture (University of Belgrade) and also studied Web design (IT Academy).
 
+On a personal note, Katarina is in love with music and she even has her own band (hint: google "Weird Fishes"). She's singing and enjoying practicing and performing live.
 
 image::images/SolutionSpace_Team_12_AleksandarKanjevac.png[]
 Aleksandar Kanjevac - Web Developer
 [link=https://www.linkedin.com/in/aleksandar-kanjevac-a35758140/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-Aleksandar is a website developer in charge of most of our websites and web assets we are creating both internally and for our clients.
-He's the person to reach out if you need anything related to the website maintenance and WordPress development. You'll find him often trying to solve bugs and improve experience prior you even report something.
+Experienced Web Developer skilled in JavaScript, Bootstrap, Cascading Style Sheets (CSS), PHP, C, and WordPress. Aleksandar is a website developer in charge of most of MVP Workshop’s websites and web assets created both internally and for the clients.
+
+He is the person to reach out if we need anything related to the website maintenance and WordPress development. We find him often trying to solve bugs and improve experience prior anyone reports something.
+
+On a personal note, Aleksandar was theatre actor and he is still acting from time to time.
 
 image::images/SolutionSpace_Team_13_IvanaFuks.png[]
 Ivana Fuks - Researcher
 [link=https://www.linkedin.com/in/ivana-fuks-751329158/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-Add details
+Motivated economist interested in discovering new and innovative business approaches for building products that are going to shape our future.
+
+Enjoys in applying her academic background and ideas to disruptive markets.
+
+On a personal note, Ivana truly believes in the power of positive thinking, loves dogs and enjoys starting a day with a good coffee.
 
 image::images/SolutionSpace_Team_14_MarkoKovacevic.png[]
 Marko Kovačević - Advisory Board
 [link=https://www.linkedin.com/in/marko-kovacevic-84a32b70/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
-Marko is an accomplished Senior Executive and Board Member with demonstrated success across the international relations, outsourcing and telecommunication industries. Leveraging extensive experience in change management and growth strategies for organizations, he is a valuable asset for growing and transforming business needing guidance in the business development, process improvement and/or product development. His broad areas of expertise include strategic development, business transformations, growth strategies and business development.
+Committed to share and leave everything touched better than when it was found.
 
+Marko Kovačević is an accomplished Senior Executive and Board Member with demonstrated success across the international relations, outsourcing and telecommunication industries. Leveraging extensive experience in change management and growth strategies for organizations, he is a valuable asset for growing and transforming business needing guidance in business development, process improvement and/or product development. His broad areas of expertise include strategic development, business transformations, growth strategies and business development.
+
+Prior to becoming Chairman of the Board of MVP Workshop, he has served as CEO of Trizma and executive capacities in Atlantic Council of Serbia, Megatrend University, Telenor, Virtuoni, Dupont Carter and Insomnia Serbia.
+
+His fields of interest include blockchain, customer experience and engagement, new gamification and business model design.
 
 == Timeline / Roadmap
 image::images/SolutionSpace_Timeline_01_Timeline.png[]
