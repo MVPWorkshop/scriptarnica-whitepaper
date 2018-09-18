@@ -78,10 +78,8 @@ As of mid-January 2016, Amazon’s US e-book sales were running at a rate of 1,0
 
 === Publisher Types
 
+.Each country's total e-book unit sales broken down by publisher type http://authorearnings.com/report/february-2017/[(Source)]
 image::images/Market_PublisherTypes_01_PublisherTypesGraphPerCountry.png[]
-
-[.small]#Each country's total e-book unit sales broken down by publisher type#
-[.small]#http://authorearnings.com/report/february-2017/[(Source)]#
 
 The amount of readers interested in indie books can be seen in the chart above, showing that indie authors are capturing between 20-35% of all e-book sales in each of the five English-language markets. As stated before, Amazon is generating $1,756,000 a day in author earnings, out of which 35% of this amount (i.e., $614,000) goes to indie authors. On the other hand, the Big Five are letting themselves progressively get squeezed out of nearly every English-Language e-book market.
 
