@@ -19,6 +19,7 @@ very process of writing, incentivizes improved content with easy versioning,
 and rewards all contributors through a decentralized e-book platform,
 called Scriptarnica.
 
+.Figure
 image::images/Welcome_01_BooksIllustration.png[300, 300,align="center"]
 
 === The Book Market 
