@@ -19,7 +19,7 @@ very process of writing, incentivizes improved content with easy versioning,
 and rewards all contributors through a decentralized e-book platform,
 called Scriptarnica.
 
-.Figure
+.Scriptarnica Books
 image::images/Welcome_01_BooksIllustration.png[300, 300,align="center"]
 
 === The Book Market 
@@ -54,7 +54,8 @@ https://www.statista.com/chart/6361/ebook-pricing/[editions]).
 
 Inside the U.S. market, the most dominant player in online books and e-book retailing is Amazon. Including indie books (published without ISBNs), Amazon accounts for 83% of US e-book purchases – and the rest is almost entirely shared between the Apple iBookStore, Barnes & Noble, Kobo US and the GooglePlay Books.
 
-.Figure
+.E-book sales by country in all English-Language e-book markets
+
 image::images/Market_BigPlayersInTheEbookMarket_01_CountriesPie.png[]
 
 .Total annual e-book unit sales by country in all English-Language e-book markets http://authorearnings.com/report/february-2017/[(Source)]
@@ -90,15 +91,14 @@ https://www.relx.com/~/media/Files/R/RELX-Group/documents/reports/annual-reports
 
 The most prestigious publishers collect revenue from subscriptions paid by university libraries. Additionally, publishers also bundle titles, so libraries have little choice about where to purchase individual titles. Given that those subscriptions can cost from $1,000 to $5,000, it is clear why subscription expenses represent a big part of a library’s annual budget. 
 
-The journal article publishing process:
 
-.Figure
+.The journal article publishing process
 image::images/Market_AcademicPublishingMarket_01_PublishingProcessDiagram.png[]
 
 Although library administrators complained about paying huge sums to access research, the large publishing companies continue to attract scholars. One reason might be that the quality of the research must still be checked or certified by experts. This is done using a peer review process, the process of subjecting an author’s work, research, or ideas to the scrutiny of others who are experts in the same field before the research is published in a journal, at a conference, or in a book. However, peer review is not a democratic voting system. It is the editor who makes the final decision based on all the information available. According to the 
 https://researcheracademy.elsevier.com/sites/default/files/2017-11/Brochure_Peerreview_The-nuts-and-bolts_2015.pdf[Peer Review Survey], 90% of reviewers said they enjoy the process because they like playing their part as a member of the academic community; 85% of them said that enjoy seeing other papers and being able to improve them; while 91% of all researchers believe that their last paper was improved through the peer review process. 
 
-.Figure
+.Peer Review Statistics
 image::images/Market_AcademicPublishingMarket_02_ReviewingStatistics.png[]
 
 Currently, there is a significant difference between person’s contribution and his reward. This is proven just by looking at who the peer reviewers are and what they get for their valuable contributions. Reviewers are described as experts who volunteer their time to help improve the manuscripts they review. For their significant contribution, Elsevier, for example, offers them an opportunity to build their reputation as well as get some discounts for Elsevier’s services. 

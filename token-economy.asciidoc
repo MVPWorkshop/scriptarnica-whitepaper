@@ -2,12 +2,12 @@
 
 We are building Scriptarnica, a decentralized platform for reading, writing, publishing, selling, and buying e-books. In order to run smoothly, the platform will have two tokens, tradable SCRPT token and CHR token, that are for internal use only. What does this actually mean?
 
-.Figure
+.SCRPT and CHR Burn and Mint Flow
 image::images/SolutionSpace_TokenEconomy_01_TokenFlowDiagram.png[]
 
 Upon joining the network, readers will be able to see the full book offer that is available on our platform as well as all accompanying information for every book. If they decide to buy a book, all they have to do is to exchange tokens for the book. However, if a reader is not part of the crypto community, he will be able to pay for that book with fiat, like everywhere else. And, yes, that is actually the only thing he has to do. For passionate readers who are not interested in crypto, the most important thing is that process of getting a book should be as simple as possible. So, Scriptarnica is going to provide that simplicity to its users and do the rest for them.
 
-==== The Burn & Mint Equilibrium
+=== The Burn & Mint Equilibrium
 
 In the BME model, users who want to use a service do not directly pay a counterparty to use the service. Rather, users burn tokens. Once fiat gets into the Scriptarnica system, a proportional amount of SCRPT tokens will be bought (a service that will be provided by a third party bookstore app for a small fee) and burned. At the same time as SCRPT tokens get burned, the user is getting CHR tokens that he can use to actually buy a book. CHR tokens keep the book price constant as they are tied to the dollar price of the book.
 
