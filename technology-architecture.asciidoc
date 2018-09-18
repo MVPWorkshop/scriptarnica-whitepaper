@@ -1,0 +1,58 @@
+== Technology Architecture
+
+==== Book Storage
+
+Once purchased, a book has to be distributed in some way to the buyers' device. Where and how will the book data be stored? How easy will it be to edit the books?
+
+===== Requirements
+
+For an evaluation of different decentralized storage platforms, we focused on the following requirements:
+
+- It should be able to store books in a decentralized fashion
+- It should be able to secure the books from unauthorized access
+- It should allow for anyone to host books (encrypted)
+- It should allow a free preview of the table of contents and the first paragraph of each chapter. It should allow the author to write/update his books on the platform
+- It should allow for granular purchasing of books (word, paragraph, chapter, section, book)
+- It should be able to full-text search all the books on the platform
+
+If we think of the book in terms of its organizational structure, we can see that the book is essentially a tree of data, where the table of contents represents the nodes in that tree. We can make use of that tree to store data hierarchically on any decentralized platform with a couple of interesting features.
+
+A tree of data fits perfectly with the chunked nature of a file on a peer-to-peer network, and with a relatively simple protocol, we can structure those chunks to create a hierarchy that can be both accessed in its entirety and traversed through the book structure so only a part of the content can be retrieved.
+
+Example: +
+_If we want to access the whole book, we read the full tree representation of the book depth first. Alternatively, we can also access just one section by getting the section node and downloading all subsection depth first. The same can be done for a chapter inside a section. We can see that we can fully access the book at any level by downloading all the subsections below it._
+
+We can see that we can fully access any part of the book by retrieving all the subsections below it. This can enable us to provide a dynamic book structure, without forcing us to provide a standard for laying out books.
+
+==== Security
+
+Another useful property of the hierarchical nature of a tree is that we can use Key Derivation Functions to fully encrypt a book with only one key, while still being able to decrypt any part of the book by deriving keys along the tree to obtain a private key for just that section. While this simplified to the number of keys that we have to remember, it also helps us save storage, by converting all the sub keys into one parent key (which can derive all sub keys again) once all the subsections of a node are purchased/unlocked.
+
+For a complete book security solution, we are looking at a couple of key questions:
+
+- Can the “at rest” data be accessed in plain text?
+- How will a book be accessed once purchased?
+- How hard is it to share the book to unauthorized entities once purchased?
+- How does sharing a part of the book differ from sharing the whole book?
+- What are the memory and performance implications of the solution?
+- Is the solution centralized or not?
+
+In order to further protect our authors from book theft, we will take advantage of proxy re-encryption to distribute books to buyers encrypted under their own private key. In this way, if a leak occurs, we will know exactly which key leaked, and will be able to prevent further book distribution via that specific key.
+
+==== Distribution, book purchase and ownership
+
+We can distribute and regulate access to books by splitting book purchase and book access into two separate actions.
+
+When the user first buys the book, a re-encryption key is generated for that user, and then it is distributed across our network. The user then asks the network for access to the book, and the network having information of whether the user bought the book or not, can choose to re-encrypt the requested book and distribute it to that user.
+
+By enabling only the network to perform the re-encryption, we add a safeguard against potentially abusive behavior. The network acts as a sort of a referee between the user and the books.
+
+Since it would be inefficient and expensive to perform all platform logic on the main Ethereum network, we need to find a way to provide a trusted mechanism for improving the performance and cost effectiveness of our solution.
+
+There are a couple of potential solutions that can be explored initially:
+
+- Ethereum Plasma Can we leverage work being done on Ethereum Plasma to provide a similar experience?
+- Side Chain Carrying over from Plasma, what are our options for a Side Chain and is there any relevant technology being developed in that area?
+- State Channels Can any of the existing state channels serve our purpose, or is the creation of our own custom state channel a valid alternative?
+
+The exact definition of our network setup and incentive mechanisms is still to be determined.

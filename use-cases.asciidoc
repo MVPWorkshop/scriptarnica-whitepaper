@@ -1,0 +1,19 @@
+=== Use Cases
+
+==== Lean writing
+
+Book can take a year or more to be written, meaning that writers have to finance themselves for the whole time they write. Additionally, as everyone, writers also sometimes need motivation to continue, or feedback or just a boost. In order to deal with these problems, Scriptarnica is introducing Lean Writing as one of the core features of the platform. This means that writers will be able to publish piece by piece of their content as they write and earn from it immediately. Also, releasing a book while it is still in the process of writing, writers will be able to get meaningful feedback from readers.
+
+==== Read and pay as you go - research driven reading
+
+This means buying a paragraph, page, chapter or a whole book, thanks to cheap and fast microtransactions. In order to do that, we need to ensure that the cost of the transaction is much less than the cost of a single paragraph. The main KPIs would be to achieve 1,000 transactions per second and a cost $0.00001 per transaction.
+
+If you are passionate about chess, this will allow you to search for specific games and players only, or you can buy all the chapters from scientific works that are related to the topic for which you are looking (e.g., integrals in mathematics, thermodynamics in physics) or to go quickly through all the materials needed for your journalist research.
+
+==== Censorship – resistant network
+
+Censorship resistance is one of the key properties that decentralized systems provide. That is also the value Scriptarnica is providing for its users, meaning that we are creating a network in which all participants are on equal footing. However, although there are no official rules for participating in Scriptarnica, we are going to create a set of desirable guidelines for contributors. The general purpose of these guidelines is to make everybody’s experience better and help ensure faster adaptation for those who are new to the network.
+
+==== Reinvented publishing flow
+
+Scriptarnica is reinventing the current publishing flow, giving all credit back to their content creators, making the whole process a lot faster, fairer and more quality-based. The platform combines decentralization and incentivization in order to make a network where no single entity has the power to take the majority of the cake, but a network where everybody is rewarded for their work. With SCRPT, individuals earn real rewards online that are directly correlated to their contributions.

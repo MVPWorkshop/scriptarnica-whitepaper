@@ -1,0 +1,67 @@
+=== Guidelines
+
+Although there are no official rules for participating on Scriptarnica’s network, we propose a set of guidelines for reviewers in order to make everybody’s experience with our platform better and easier.
+
+Reviewers are as valuable to Scriptarnica’s network as the writers are. They are going to help our platform operate without problems. The job of the reviewer is to review the book as soon as it becomes live on the platform. The first one who reviews the book will get 50% of the funds as a reward, after which every other reviewer will get an appropriate reward depending on how many of reviewers were before him.
+
+Although it will be completely free for writers when it comes to writing and publishing their books on Scriptarnica, reviewers on the other hand are those who will go over the book and suggest possible improvements whether in terms of content or format.
+
+A reviewer should:
+
+- Act and make every contribution in “good faith”
+- Review the book as soon as it becomes live on Scriptarnica’s platform
+- Suggest book’s format improvements according to the standard layout
+- Audit the book in order to check whether it contains any questionable information
+- Report the book if it is flagged for containing that kind of information
+
+==== Reputation
+
+Scriptarnica is envisioned to be a network and one place for all the book enthusiasts. In order to create a healthy environment and positive communication among all platform users, it is necessary for everybody to act in “good faith”. The contributions users make and the actions they take are going to build their reputation on the platform. When reviewing a book, reviewers are encouraged to make constructive and valuable suggestions otherwise they can ruin their reputation on the platform.
+
+==== Book Format
+
+No matter how creative writers are with their content, writers usually follow a standard format when organizing or formatting the book, the book’s layout. A book layout includes a front cover, a book’s prefatory material, its content, end material, and a back cover. For every book available on Scriptarnica platform, the reader will be able to see a complete layout with a price tag for every part of it, as well as the price of the paragraphs and the whole book. This means that some parts of the layout are going to be free whereas for some of them (premium sections) will naturally be payable. In order to facilitate the whole process of setting a book’s price (as well as its parts), it is recommended for writers to follow above-mentioned layout. Once published, reviewers should be the ones in charge of making suggestions for format improvements.
+
+==== Book’s layout
+
+===== Front cover
+
+The essential elements of a front cover include book’s title and the author’s name. Optional elements include a subtitle (if there is any), photos, background images, or graphics. It is the first thing potential readers will see, so it has to be professional and to communicate the right message.
+
+===== Prefatory material
+
+It includes all textual material after the front cover but not part of the book’s content with some important information about the author and publisher. It consists of title page, publisher data, dedication, acknowledgments, table of contents and forward.
+
+===== Book’s content
+
+It is the body of the book. Here we have an introduction or prologue and the actual chapters. Also, sometimes the body will end with a conclusion that can also be in forms of epilogue, afterword or postscript.
+
+===== End matter
+
+It is usually used to offer readers further supplementary information about the book or story. It could include appendix, indices, sets of tables, diagrams, glossary, biography, and list of cited works.
+
+===== Back cover
+
+It is usual place for taglines, blurbs, testimonials, a photograph of the author, book’s ISBN.
+
+This is the standard layout that has developed over time. It is absolutely fine for writers to be creative and add in every part whatever they find important.
+
+The front cover, prefatory material, biography, and back cover are going to be free of charge to all users.
+
+==== Content
+
+Scriptarnica is a platform resistant to censorship, meaning that there are not going to be formal restrictions for writers on what may and what may not be published on Scriptarnica network. However, this does not mean that the users should be exposed to abusive content. In order to secure that Scriptarnica’s community members rate the writers, suggest improvements, or flag it if the book contains any kind of disturbing information. Also, an opportunity to build the reputation on the platform means that there is a strong disincentive for authors to post anything controversial.
+
+The network is one that will actually make decisions on the content. However, in order to help writers have a sense of whether a book is worth publishing or not we put together these guidelines with the intention to be helpful. These could be understood as a practical set of standards assembled with the purpose of protecting the experience and safety of every audience member.
+
+Guidelines as to what content is not welcome on Scriptarnica:
+
+- Pornography or offensive depictions of graphic sexual acts
+- Content that advocates committing a terrorist act, incites violence, or celebrates terrorist attacks
+- Encouraging illegal activities, sales of explosives, firearms, ammunition, certain firearms accessories or drugs
+- Hate speech and misleading content that harasses other people on the basis of race, ethnicity, national origin, sexual orientation, gender, age, disability or serious disease
+- Content that violates laws or copyright, trademark, privacy, publicity or other rights
+
+==== Pricing
+
+Pricing method is fairly self-explanatory and based on the number of paid characters in the book. When we deduct the free characters from the total number of the book’s characters, we get the total number of premium characters. Book’s price divided by the number of premium characters gives us the price per character. This means that the price of the premium content depends on how many premium characters are in that part, e.g., the price of a chapter equals the character price multiplied by the number of characters in that chapter. The same process is repeated when we need the price of a paragraph – the price of a character multiplied by the number of characters in that paragraph. An image costs as an average paragraph in that book.

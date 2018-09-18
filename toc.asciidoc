@@ -1,17 +1,16 @@
 == Table of Content
 
-==== 1. Welcome
+=== Market
 
-==== 2. Market
-
+* Welcome
 * The Book market
-* E-book market	
+* E-book market
 * The E-book market in U.S.	
 * Big players in the e-book market	
 * Publisher Types	
 * Academic publishing market
 
-==== 3. Problem Space
+=== Problem Space
 
 * Publishing process	
 * Research-driven reading is expensive - Readers pay for the entire book	
@@ -19,51 +18,58 @@
 * Marketplace is centralized with middle-men	
 * Reader wants to contribute to the quality of the book & read it before it’s done
 
-==== 4. Solution Space
+=== Solution Space - Scriptarnica
 
-* About Scriptarnica	
-* Why Blockchain?	
-* Our Users
-** Reader
-** Writer	
-** Reviewer and contributors	
-** Publishers
-* Use Cases 
-** Lean writing	
-** Read and pay as you go - research driven reading	
-** Censorship – resistant network	
-** Reinvented publishing flow
-* Token Utility	
-** Script Token (SCRPT)	
-** Character token (CHR)	
-* Token Economy	
-** The Burn & Mint Equilibrium	
-* Guidelines	
-** Reputation	
-** Book Format
-** Book’s layout	
-*** Front cover	
-*** Prefatory material	
-*** Book’s content	
-*** End matter	
-*** Back cover
-** Content	
-** Pricing
-* Technology Architecture
-** Book Storage
-*** Requirements 
-** Security
-** Distribution, book purchase and ownership
-* Token Distribution	
-** Token distribution plan	
-* Use of Funds	
-* Team	
-* Timeline / Roadmap
+===  Why Blockchain?
 
-==== 5. Legal Considerations, Risks and Disclaimer
+===  Our Users
+* Reader
+* Writer
+* Reviewer and contributors
+* Publishers
+
+===  Use Cases
+* Lean writing
+* Read and pay as you go - research driven reading
+* Censorship – resistant network
+* Reinvented publishing flow
+
+===  Token Utility
+* Script Token (SCRPT)
+* Character token (CHR)
+
+===  Token Economy
+* The Burn & Mint Equilibrium
+
+===  Guidelines
+* Reputation
+* Book Format
+* Book’s layout
+** Front cover
+** Prefatory material
+** Book’s content
+** End matter
+** Back cover
+* Content
+* Pricing
+
+===  Technology Architecture
+* Book Storage
+** Requirements
+* Security
+* Distribution, book purchase and ownership
+
+===  Token Distribution
+* Token distribution plan
+
+===  Use of Funds
+
+===  Team
+
+===  Timeline / Roadmap
+
+=== Legal Considerations, Risks and Disclaimer
 
 * Risk factors	
 ** Token Sale Risks	
 ** Company Related Risks
-
-==== 6. Let’s work together

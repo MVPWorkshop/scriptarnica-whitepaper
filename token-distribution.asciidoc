@@ -1,0 +1,27 @@
+== Token Distribution
+
+*Token name:* SCRPT +
+*Total token supply:* 12,000,000 +
+*Token type:* ERC20
+
+We are aware that the network is best served when as many tokens as possible are held by the actual users of the network. With this in mind and knowing that for projects implementing the BME model it is necessary to get their tokens in the hands of as many people as possible, Scriptarnica will have an ICO with an eye to attracting many small investors.
+
+image::/images/SolutionSpace_TokenDistribution_01_TokenDistribution.png[]
+
+=== Token distribution plan
+
+Due to the reasons mentioned above, 70% of tokens will be available for token sale out of which:
+
+- 38.5% of SCRPT will be available for Private Sale investors
+- 28.0% of SCRPT will be available for Public Sale
+3.5% of SCRPT will be allocated to Seed Rou nd Investors
+
+*Lock-up period for private sale investors and public sale investors: three months after the coin listings +
+*Lock-up period for seed round investors – three months post ICO
+
+Another 30% of tokens are going to be distributed among Advisors (3%), Partners (3%), Team (9%), Bounty and Rewards (5%) and Operations (10%). +
+* Employee, Partner and Advisors tokens are held in three allotments. The first allotment will be unlocked six months after the Token Generation Event. Second and third allotments are tied to platform development milestones and platform adoption.
+
+For more information, you can check our
+https://docs.google.com/spreadsheets/d/1jQLuu_XJpCJ3koj1MzGTUuTvTNvUQ0q0aCGLui-oh3w/edit#gid=2134074574[Token Distribution document].
+

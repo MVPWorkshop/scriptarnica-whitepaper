@@ -1,0 +1,40 @@
+=== Token Economy
+
+We are building Scriptarnica, a decentralized platform for reading, writing, publishing, selling, and buying e-books. In order to run smoothly, the platform will have two tokens, tradable SCRPT token and CHR token, that are for internal use only. What does this actually mean?
+
+image::images/SolutionSpace_TokenEconomy_01_TokenFlowDiagram.png[]
+
+Upon joining the network, readers will be able to see the full book offer that is available on our platform as well as all accompanying information for every book. If they decide to buy a book, all they have to do is to exchange tokens for the book. However, if a reader is not part of the crypto community, he will be able to pay for that book with fiat, like everywhere else. And, yes, that is actually the only thing he has to do. For passionate readers who are not interested in crypto, the most important thing is that process of getting a book should be as simple as possible. So, Scriptarnica is going to provide that simplicity to its users and do the rest for them.
+
+==== The Burn & Mint Equilibrium
+
+In the BME model, users who want to use a service do not directly pay a counterparty to use the service. Rather, users burn tokens. Once fiat gets into the Scriptarnica system, a proportional amount of SCRPT tokens will be bought (a service that will be provided by a third party bookstore app for a small fee) and burned. At the same time as SCRPT tokens get burned, the user is getting CHR tokens that he can use to actually buy a book. CHR tokens keep the book price constant as they are tied to the dollar price of the book.
+
+- If one SCRPT is worth $1 and you burn it, you get 100 CHR
+- If one SCRPT is worth $10.00 and you burn it, you get 1,000 CHR
+
+So, the actual number of CHR tokens that a user will get depends on the number of burned SCRPT tokens. CHR tokens are not transferable and you can’t turn them back into SCRPT. You can only use them to buy a book.
+
+In parallel to the token burning process, the protocol will mint the specific amount of burned SCRPT tokens and send them to Smart Contracts to be redistributed to service providers - writers, book holders, reviewers, whereas only small percent will go back into the platform. Theoretically, the minting process happens in defined periods of time, which might lead to the following scenarios:
+
+- If # of tokens burned > # of tokens of minted - price should increase
+- If # of tokens burned < # of tokens of minted - price should decrease
+
+It seems that this model could create situations in which service providers are under or overpaid. However, in practice, if the system is running near an equilibrium state, then service providers will be paid the appropriate amount. Because if the price of SCRPT tokens increase, fewer tokens need to be burned to purchase the same amount of service, in our case books, bringing the system back into equilibrium. Let’s assume the following:
+
+Book= $10=1000 CHR
+
+. 1 SCRPT= $10	$10→	1 SCRPT  	→	1000 CHR→	Book
+. 1 SCRPT= $12	$10→	0.83 SCRPT	→	1000 CHR→	Book
+. 1 SCRPT= $08  $10→	1.25 SCRPT	→	1000 CHR→	Book
+
+Additionally, the burn-and-mint model creates a model in which linear growth in usage of the network causes linear, non-speculative growth in the value of the token.
+
+As shown in the calculation above, CHR value is tied to the dollar price of the book. However, SCRPT is actually pegged to company’s value. In order to have a token with a potential to grow in value over time, it is necessary to have a healthy and stable economy in the background. Although a token’s price depends on several factors, such as hype, trust, token utility and other market factors, the price also depends on the velocity.
+
+Ideally velocity is maintained within a range: too low is as damaging as too high. Given the main purpose of the Scriptarnica platform, it is expected that people will exchange their SCRPT tokens for fiat in order to get paid for their work, but one more way of earning money would mean holding some percentage of tokens in order to earn on the future value. The challenge faced by Scriptarnica is to find right levers that could be used to adjust velocity. These all involve incentivizing token-users to hold onto their tokens for an extended period of time. One of the ways to balance the velocity is by introducing staking functions into the protocol.
+
+Staking SCRPT tokens is required as a membership for writers in order to publish books on the Scriptarnica platform. Reviewers, book holders and other contributors must also stake if they want to perform work on the platform. Besides staking for the membership, they will also be incentivized to stake tokens in order to have an opportunity to benefit from the future value.
+As long as books are being bought on the platform, burn-and-mint will ensure high returns to those people staking the coin, which means that readers also could look at staking SCRPT as an investment mechanism.
+
+For projects that implement the BME model, it is necessary to get their tokens into the hands of millions of people so that end users can use the service. This means a lot of business development activities as well as marketing and partnerships.

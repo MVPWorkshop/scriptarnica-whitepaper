@@ -1,0 +1,42 @@
+=== Our Users
+
+Scriptarnica is a platform for all the book enthusiasts out there. If you are a passionate reader, a talented writer, or you just want to be part of our community, Scriptarnica is for you.
+
+=== Reader
+
+Whether you are looking for a book to read in your free time or you need a valuable piece of information for your thesis or research, Scriptarnica is designed to fulfill all your needs. The platform allows you to pay as you go only for the content that you want to read. That means you can buy only a page, a chapter or the whole book.
+
+When a book is published on the platform, everyone can see its description, author info, reviews, ranking and pricing method. If a reader chooses to buy the whole book, Smart Contract will be triggered and tokens will be transferred from reader to writer. The reader will have full access to the book, which will be stored on IPFS and will be accessible in offline mode. However, if reader prefers reading chapter by chapter, he will be able to scroll through a table of contents to find the desired chapter and jump right into it. Now the Smart Contract will be triggered with different conditions. If a reader wants to continue reading to the next (or any other chapter), the Smart Contract will be triggered again. The same applies to the third option, except it goes page by page with a word search option. Every time an event is triggered, the reader will get a notification to confirm the transaction, or he can select the autopilot reading feature. In both cases, readers will have a visual check-up of how much they spend.
+
+Also, Scriptarnica will allow writers to publish chapter by chapter which means that readers will have the exclusive opportunity to read the book before it is even completed. However, if you are a true book lover, you don’t have to stop here. Upon joining the platform you can also become an active member of the community, contribute to the content, become a book holder and earn tokens for your meaningful contribution.
+
+=== Writer
+
+Scriptarnica is going to completely change the book-writing experience. Its decentralized platform is designed to give all the credit back to the creators, instead to middlemen.
+
+Writers will be able to create content on the Scriptarnica platform free of charge and choose to publish it part by part (chapter by chapter) or as a whole book for small fee. Because of all the advantages blockchain technology brings, they will be able to receive instant payments as somebody buys the book. Publishing content to the network is done by forming a Smart Contract with following information:
+
+. Book info
+. Book price
+. Single character price (serves to calculate a price per each paragraph / page / chapter)
+. Price for “work-in-progress”
+
+But that’s not all. Scriptarnica also enables writers to get higher profits and complete book analytics, and it will also create a healthy environment and direct connections between writers and readers. With the valuable feedback, authors will be able to improve their content and build their reputations.
+
+=== Reviewer and contributors
+
+The reviewer role can be taken either by another writer or a book reader. A reviewer’s job is to take care that everything goes by the guidelines. The newly published books need to be reviewed and are going directly to the “Coming Soon / Publishing” queue, so first readers can provide their reviews and list a book as visible on the platform. Also, the writer can ask specific writer to review the book he wrote before publishing. Once published, readers will have an opportunity to influence the content, recommend the book, and rate both the book and the writer.
+
+However, reviewing is not the only way in which you can help the network to operate. There is also a place for translators, designers, and marketers to contribute. Beside this, as Scriptarnica is going to be built using IPFS, a distributed file system that seeks to connect all computing devices with the same system of files, one can also become a book holder and earn tokens from that.
+
+For all contributions, network members will be rewarded with SCRPT tokens that will be paid from the pool, that is to say the load from writers’ publishing fees. By joining forces, we will create an environment where quality is a priority.
+
+=== Publishers
+
+Scriptarnica is meant to simplify the present publishing process using the advantages of blockchain technology, which means that current inefficiencies will certainly be reduced in order to move the industry in the right direction together with other industries that are already adopting blockchain solutions with a great degree of success. However, this does not mean that we are excluding publishers from the game.
+
+New information and communications technologies present significant challenges for publishers, forcing them to revise their strategies and find new ways of engaging their readers. Reader participation and engagement is one of the main challenges publishers face. In a world of expanding opportunities, access, engagement and innovation are the turning points where publishers must cope with a series of issues and find alternative ways to move forward.
+
+Publishing a book is a process for publishers as well as for writers, however, readers now want to access information and knowledge immediately, and as soon as possible. All this puts constant pressure on publishers, forcing them to constantly think of how to keep their market positions and increase their profits. Although it is generally thought that publishers take the majority of the money circulating in the publishing industry, the truth is that there are a lot of design, marketing and sales costs that need to be covered. For publishers to sell their books, they must have a sales force, which never comes cheap.
+
+Scriptarnica uses technology in the best way possible to change the current situation and the position of all industry players. Together with Scriptarnica, publishers are going to open up new possibilities for their business, which means more promotion and sales opportunities, increasing profit without any additional work.

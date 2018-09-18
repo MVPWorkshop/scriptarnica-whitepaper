@@ -1,0 +1,10 @@
+== Use of Funds
+
+*Fundraising goal:* 	$8,321,250 +
+*Soft cap:*		$2,000,000
+
+We have developed a specific, concrete plan for the use and allocation of revenue from the token sale. Funds raised during the Token sale event will be used solely for the development and benefit of the Scriptarnica network.
+
+image::images/SolutionSpace_UseOfFunds_01_IcoFundsUtilization.png[]
+
+Scriptarnica will use 33.2% of the funds for the platform’s development. 37.4% of the funds will be used for promotional and marketing activities, whereas the remaining 29.4% of the funds will be used for covering operational (16.4%) and legal expenses (13%).

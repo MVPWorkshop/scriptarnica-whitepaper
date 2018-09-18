@@ -1,0 +1,25 @@
+=== Why Blockchain?
+
+[.text-center]
+.Enabling fast and cheap microtransactions
+image::images/SolutionSpace_WhyBlockchain_01_EstablishingFastAndCheap.png[300,300,align="center"]
+
+[.text-center]
+.Eliminating middlemen
+image::images/SolutionSpace_WhyBlockchain_02_EliminatingMiddlemen.png[300,300,align="center"]
+
+[.text-center]
+.Enabling rewards for all platform contributors
+image::images/SolutionSpace_WhyBlockchain_03_EnablingRewards.png[300,300,align="center"]
+
+[.text-center]
+.Building stronger connections between writer and reader
+image::images/SolutionSpace_WhyBlockchain_04_BuildingStronger.png[300,300,align="center"]
+
+[.text-center]
+.Incentivizing the creation of quality content
+image::images/SolutionSpace_WhyBlockchain_05_IncentivizingQuality.png[300,300,align="center"]
+
+[.text-center]
+.Enabling loyalty/karma for all participants and contributors
+image::images/SolutionSpace_WhyBlockchain_01_EstablishingFastAndCheap.png[300,300,align="center"]
