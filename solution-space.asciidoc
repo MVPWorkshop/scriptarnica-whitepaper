@@ -512,7 +512,7 @@ On a personal note, Ivana truly believes in the power of positive thinking, love
 
 image::images/SolutionSpace_Team_14_MarkoKovacevic.png[300,300]
 Marko Kovačević - Advisory Board
-[link=https://www.linkedin.com/in/marko-kovacevic-84a32b70/]
+[link="https://www.linkedin.com/in/marko-kovacevic-84a32b70/"]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
 Committed to share and leave everything touched better than when it was found.
