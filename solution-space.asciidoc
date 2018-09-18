@@ -477,10 +477,9 @@ He enjoys problem solving and likes to be included in the whole product lifecycl
 
 On a personal note, he enjoys listening grunge music, visiting festivals and traveling around Europe.
 
+// Katarina Vukoman
 image::images/SolutionSpace_Team_11_KatarinaVukoman.png[300,300]
-Katarina Vukoman - Visual designer
-
-image::images/Let’s work together_03_LinkedIn.png[20,20,link="https://www.linkedin.com/in/katarinavukoman/"]
+https://www.linkedin.com/in/katarinavukoman/[Katarina Vukoman] - *Visual designer*
 
 Katarina is a graphic designer curious about innovative ways of blending beauty and usability. When it comes to design - she's passionate about brand and visual identity, typography, infographics and print.
 
@@ -488,10 +487,9 @@ Katarina graduated Architecture (University of Belgrade) and also studied Web de
 
 On a personal note, Katarina is in love with music and she even has her own band (hint: google "Weird Fishes"). She's singing and enjoying practicing and performing live.
 
+// Aleksandar Kanjevac
 image::images/SolutionSpace_Team_12_AleksandarKanjevac.png[300,300]
-Aleksandar Kanjevac - Web Developer
-
-image::images/Let’s work together_03_LinkedIn.png[20,20,link="https://www.linkedin.com/in/aleksandar-kanjevac-a35758140/"]
+https://www.linkedin.com/in/aleksandar-kanjevac-a35758140/[Aleksandar Kanjevac] - *Web Developer*
 
 Experienced Web Developer skilled in JavaScript, Bootstrap, Cascading Style Sheets (CSS), PHP, C, and WordPress. Aleksandar is a website developer in charge of most of MVP Workshop’s websites and web assets created both internally and for the clients.
 
@@ -499,11 +497,10 @@ He is the person to reach out if we need anything related to the website mainten
 
 On a personal note, Aleksandar was theatre actor and he is still acting from time to time.
 
+// Ivana Fuks
 image::images/SolutionSpace_Team_13_IvanaFuks.png[300,300]
 
-Ivana Fuks - Researcher
-
-image::images/Let’s work together_03_LinkedIn.png[20,20,link="https://www.linkedin.com/in/ivana-fuks-751329158/"]
+https://www.linkedin.com/in/ivana-fuks-751329158/[Ivana Fuks] - *Researcher*
 
 Motivated economist interested in discovering new and innovative business approaches for building products that are going to shape our future.
 
@@ -511,11 +508,10 @@ Enjoys in applying her academic background and ideas to disruptive markets.
 
 On a personal note, Ivana truly believes in the power of positive thinking, loves dogs and enjoys starting a day with a good coffee.
 
+// Marko Kovacevic
 image::images/SolutionSpace_Team_14_MarkoKovacevic.png[300,300]
 
-Marko Kovačević - Advisory Board
-
-https://www.linkedin.com/in/marko-kovacevic-84a32b70/[LinkedIn, role="external", window="_blank"]
+https://www.linkedin.com/in/marko-kovacevic-84a32b70/[Marko Kovačević] - *Advisory Board*
 
 Committed to share and leave everything touched better than when it was found.
 
