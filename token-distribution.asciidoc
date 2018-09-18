@@ -6,6 +6,7 @@
 
 We are aware that the network is best served when as many tokens as possible are held by the actual users of the network. With this in mind and knowing that for projects implementing the BME model it is necessary to get their tokens in the hands of as many people as possible, Scriptarnica will have an ICO with an eye to attracting many small investors.
 
+.Figure
 image::/images/SolutionSpace_TokenDistribution_01_TokenDistribution.png[]
 
 === Token distribution plan

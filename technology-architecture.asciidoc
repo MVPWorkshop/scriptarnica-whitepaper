@@ -1,10 +1,10 @@
 == Technology Architecture
 
-==== Book Storage
+=== Book Storage
 
 Once purchased, a book has to be distributed in some way to the buyers' device. Where and how will the book data be stored? How easy will it be to edit the books?
 
-===== Requirements
+==== Requirements
 
 For an evaluation of different decentralized storage platforms, we focused on the following requirements:
 

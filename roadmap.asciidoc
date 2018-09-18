@@ -1,2 +1,4 @@
 == Timeline / Roadmap
+
+.Figure
 image::images/SolutionSpace_Timeline_01_Timeline.png[]

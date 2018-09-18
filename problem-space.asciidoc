@@ -2,6 +2,7 @@
 
 === Publishing process
 
+.Figure
 image::images/ProblemSpace_PublishingSpace_01_PrintVsDigitalDiagram.png[]
 
 Although the general steps of the printed book publishing process are quite similar to the e-book publishing process, the whole procedure of e-book publishing is less time-consuming and in accordance with digital transformation trend. Historically, after finishing the content for their books, writers would spend a lot of time looking for agents who would then make great efforts to get a publishing deal. The whole process could last up to two years before a book gets launched. Once the deal is made, writers would lose all creative control over the book and would earn in the best cases between 7% and 25% of the books’ sales revenue. Characteristics like royalties being paid quarterly or twice a year, minimum number of copies needed to be sold before writer starts earning royalties, existence of restrictive clauses in the contract, high marketing costs publishers have to cover in order to get the attention of the public, are some of the reasons why significant changes are still necessary in this industry in order to further simplify the publishing process and help both writers and publishing agencies.

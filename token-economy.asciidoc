@@ -2,6 +2,7 @@
 
 We are building Scriptarnica, a decentralized platform for reading, writing, publishing, selling, and buying e-books. In order to run smoothly, the platform will have two tokens, tradable SCRPT token and CHR token, that are for internal use only. What does this actually mean?
 
+.Figure
 image::images/SolutionSpace_TokenEconomy_01_TokenFlowDiagram.png[]
 
 Upon joining the network, readers will be able to see the full book offer that is available on our platform as well as all accompanying information for every book. If they decide to buy a book, all they have to do is to exchange tokens for the book. However, if a reader is not part of the crypto community, he will be able to pay for that book with fiat, like everywhere else. And, yes, that is actually the only thing he has to do. For passionate readers who are not interested in crypto, the most important thing is that process of getting a book should be as simple as possible. So, Scriptarnica is going to provide that simplicity to its users and do the rest for them.

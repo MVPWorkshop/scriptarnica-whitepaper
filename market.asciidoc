@@ -30,35 +30,34 @@ According to the latest global e-book report, the world book market size is esti
 
 25.8% of total book sales worldwide are e-book sales.
 
+.E-book sales as a percentage of total book sales worldwide in 2013 and 2018 https://www.statista.com/statistics/234106/e-book-market-share-worldwide/[(Source)]
 image::images/Market_EbookMarket_01_EbookSales.png[]
-[.small]#E-book sales as a percentage of total book sales worldwide in 2013 and 2018#
-[.small]#https://www.statista.com/statistics/234106/e-book-market-share-worldwide/[(Source)]#
 
 E-book user penetration is 10.5% in 2018 and is expected to hit 11.8% by 2022, which means that the number of e-book users will rise to nearly 621 million. Also, the average revenue per user in the e-book segment amounts to $21.94, which results in a revenue of $11.8bn in 2018. According to Statista.com, it is expected that the revenue in the e-book segment will show an annual growth rate (CAGR 2018 - 2022) of 3.3% reaching $13.5bn by 2022. 
 
 According to Statista.com, the largest e-book markets (based on revenue) are concentrated in six main countries. The United States is on the top of the list with 30% of total market share. Beside the United States, there are Japan, China, the United Kingdom, and Canada. 
 
+.Largest e-book markets (based on their revenue) - Source: Statista, 2018
 image::images/Market_EbookMarket_02_CountriesGraph.png[]
-
-[.small]#Largest e-book markets (based on their revenue) - Source: Statista, 2018#
 
 === The E-book market in U.S.
 
 E-book user penetration in the U.S. has reached 27.6%, amounting to around 90 million people. The most prolific e-book readers in the US are Millennials (ages 18 to 29), making up 34 percent of all digital book readers or around 30.5 million people. As of 2016 (the latest date for which population estimates are available), Millennials numbered 71 million, and are expected to overtake Baby Boomers by population in 2019; it is anticipated that the U.S. e-book market share will undoubtedly increase in the future. Of course, Millennials stand out for their technology use, but older generations also embrace digital life.   
 
+.E-book readers in the United States in 2018, by age
 image::images/Market_EbookMarketInUS_01_ReadersByAge.png[]
 
-[.small]#E-book readers in the United States in 2018, by age#
-
-In 2017, the U.S. book industry generated a total revenue of $26.23 billion. Additionally, the U.S. e-book industry has grown tremendously over the past decade (actually, most revenue is generated in the United States $5.3bn in 2018), primarily due to the higher supply and demand of e-book devices and applications, but also due to lower prices compared to hard copies (e-book editions can be from 20% in U.S. and Germany to 74% in China, cheaper than their corresponding hardcover 
+In 2017, the U.S. book industry generated a total revenue of $26.23 billion. Additionally, the U.S. e-book industry has grown tremendously over the past decade (actually, most revenue is generated in the United States $5.3bn in 2018), primarily due to the higher supply and demand of e-book devices and applications, but also due to lower prices compared to hard copies (e-book editions can be from 20% in U.S. and Germany to 74% in China, cheaper than their corresponding hardcover
 https://www.statista.com/chart/6361/ebook-pricing/[editions]). 
 
 === Big players in the e-book market
 
 Inside the U.S. market, the most dominant player in online books and e-book retailing is Amazon. Including indie books (published without ISBNs), Amazon accounts for 83% of US e-book purchases – and the rest is almost entirely shared between the Apple iBookStore, Barnes & Noble, Kobo US and the GooglePlay Books.
 
+.Figure
 image::images/Market_BigPlayersInTheEbookMarket_01_CountriesPie.png[]
 
+.Total annual e-book unit sales by country in all English-Language e-book markets http://authorearnings.com/report/february-2017/[(Source)]
 |===
 |*Country* | *Population* | *Reported Print book sales (annual 1000 units)* | *E-book sales (annual 1000 units)* | *E-book sales as % of all book sales* 
 |*United States* | 325700000 | 675000 | 487298 | 42%
@@ -69,10 +68,7 @@ image::images/Market_BigPlayersInTheEbookMarket_01_CountriesPie.png[]
 |*5 Country Total* | *456700000* | *974700* | *632707* | *39%*
 |===
 
-[.small]#Total annual e-book unit sales by country in all English-Language e-book markets# 
-[.small]#http://authorearnings.com/report/february-2017/[(Source)]# 
-
-Amazon is the major retailer in just about every market, with more than 80% of English-language e-book purchases. They are followed by Apple, with 10%, Kobo 2% and Nook 3%.  
+Amazon is the major retailer in just about every market, with more than 80% of English-language e-book purchases. They are followed by Apple, with 10%, Kobo 2% and Nook 3%.
 
 As of mid-January 2016, Amazon’s US e-book sales were running at a rate of 1,064,000 paid downloads a day. Consumers spent roughly $5,755,000 a day on e-books on Amazon.com, and if we ignore the publishers’ margins, Amazon is generating  $1,756,000 a day in author revenues. The significant difference between these two numbers is the reason why authors should be very careful when choosing their publishing path, given that the author’s share of the gross consumer spend can vary between 17.5 - 70%. 
 
@@ -96,11 +92,13 @@ The most prestigious publishers collect revenue from subscriptions paid by unive
 
 The journal article publishing process:
 
+.Figure
 image::images/Market_AcademicPublishingMarket_01_PublishingProcessDiagram.png[]
 
 Although library administrators complained about paying huge sums to access research, the large publishing companies continue to attract scholars. One reason might be that the quality of the research must still be checked or certified by experts. This is done using a peer review process, the process of subjecting an author’s work, research, or ideas to the scrutiny of others who are experts in the same field before the research is published in a journal, at a conference, or in a book. However, peer review is not a democratic voting system. It is the editor who makes the final decision based on all the information available. According to the 
 https://researcheracademy.elsevier.com/sites/default/files/2017-11/Brochure_Peerreview_The-nuts-and-bolts_2015.pdf[Peer Review Survey], 90% of reviewers said they enjoy the process because they like playing their part as a member of the academic community; 85% of them said that enjoy seeing other papers and being able to improve them; while 91% of all researchers believe that their last paper was improved through the peer review process. 
 
+.Figure
 image::images/Market_AcademicPublishingMarket_02_ReviewingStatistics.png[]
 
 Currently, there is a significant difference between person’s contribution and his reward. This is proven just by looking at who the peer reviewers are and what they get for their valuable contributions. Reviewers are described as experts who volunteer their time to help improve the manuscripts they review. For their significant contribution, Elsevier, for example, offers them an opportunity to build their reputation as well as get some discounts for Elsevier’s services. 
