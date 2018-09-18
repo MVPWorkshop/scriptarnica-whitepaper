@@ -341,7 +341,7 @@ Scriptarnica will use 33.2% of the funds for the platform’s development. 37.4%
 
 == Our people
 
-image::images/SolutionSpace_Team_01_IvanBjelajac.png[]
+image::images/SolutionSpace_Team_01_IvanBjelajac.png[300,300]
 Ivan Bjelajac - CEO
 [link=https://www.linkedin.com/in/ivanbjelajac/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -359,7 +359,7 @@ He contributed to building Devana Technologies - one of the most successful Serb
 Ivan is the President of Serbian Blockchain Initiative, as well as Partner and Board Member at Serbian Venture Network.
 
 
-image::images/SolutionSpace_Team_02_MalisaPusonja.png[]
+image::images/SolutionSpace_Team_02_MalisaPusonja.png[300,300]
 Mališa Pušonja - CTO
 [link=https://www.linkedin.com/in/malisapusonja/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -374,7 +374,7 @@ After a successful career as a Lead Developer and Director of Engineering, Mali�
 As a CTO at MVP Workshop, Mališa’s daily tasks include building bridges and network with blockchain community, managing current cryptocurrency and ICO operations, and overseeing the Blockchain architecture.
 
 
-image::images/SolutionSpace_Team_03_AntunDebak.png[]
+image::images/SolutionSpace_Team_03_AntunDebak.png[300,300]
 Antun Debak - CPO
 [link=https://www.linkedin.com/in/antundebak/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -384,7 +384,7 @@ Designer and product person with over 13 years of experience with a focus on bui
 His specialties are Creative direction, Brand management, Product management, UI design, UX design, IxD, Visual Communication, Typography, Information Architecture, Visual Design, Project management, Product development, Blockchain technology, Marketing strategy, Company culture, Team leading, Web analytics, Basic knowledge of HTML/CSS, Event planning and organization, Bands promoter.
 
 
-image::images/SolutionSpace_Team_04_PetarAtanasoski.png[]
+image::images/SolutionSpace_Team_04_PetarAtanasoski.png[300,300]
 Petar Atanasovski - Product Manager
 [link=https://www.linkedin.com/in/petaratanasovski/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -402,7 +402,7 @@ Former Head of Customer Happiness department at GoDaddy (ManageWP and Devana Tec
 Graduated informatics at Faculty of Mathematics in Belgrade and Executive MBA at COTRUGLI Business School.
 
 
-image::images/SolutionSpace_Team_05_NemanjaLazic.png[]
+image::images/SolutionSpace_Team_05_NemanjaLazic.png[300,300]
 Nemanja Lazić - Biz Dev Director
 [link=https://www.linkedin.com/in/nemanjalazic888/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -420,7 +420,7 @@ Nemanja has mastered the art of developing and executing effective marketing and
 As a Business Development Director at MVP workshop, Nemanja is focused on change management and above all purpose, that is - building blockchain products that actually work. His personal interest lies in the tokenization of assets.
 
 
-image::images/SolutionSpace_Team_06_MilanIlic.png[]
+image::images/SolutionSpace_Team_06_MilanIlic.png[300,300]
 Milan Ilić - Head of Partner Relations
 [link=https://www.linkedin.com/in/ilicmilan/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -431,7 +431,7 @@ He had a chance to work at Devana Technologies and that is where he learned abou
 
 He is inspired by Carlos Ghosn's quote "You don't build your character by doing what everybody else is doing", and tries to create new value both for himself and others.
 
-image::images/SolutionSpace_Team_07_DjordjeStevanovic.png[]
+image::images/SolutionSpace_Team_07_DjordjeStevanovic.png[300,300]
 Đorđe Stevanović - Lead Engineer
 [link=https://www.linkedin.com/in/djordje-stevanovic-43b61091/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -443,7 +443,7 @@ He has been a Core contributor to Blockstack and works in the field of Ethereum 
 He is proud to be part of MVP Workshop and together with rest of the team work on developing blockchain solutions and contribute to establishing the standards in this exponentially growing field of technology. His spare time Đorđe spends with the family and he is passionate about all sorts of vehicles.
 
 
-image::images/SolutionSpace_Team_08_AndrejBencic.png[]
+image::images/SolutionSpace_Team_08_AndrejBencic.png[300,300]
 Andrej Benčić - Full Stack Engineer
 [link=https://www.linkedin.com/in/andrej-bencic-3122b291/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -455,7 +455,7 @@ After several years working as a freelancer and building his own startup with fr
 He is curious about private blockchain and hyperledger and strives to advance his knowledge in these fields. With an agile approach to problem solving, he tries to be prepared sooner rather than later, learn from his mistakes, and quickly adapt to new situations. With 11 hackathons and 8 awards behind, Andrej is an experienced hackathon competitor who highly values teamwork and perceives it as crucial factor for the success. In his spare time, he enjoys playing sports and board games with his friends.
 
 
-image::images/SolutionSpace_Team_09_BogdanHabic.png[]
+image::images/SolutionSpace_Team_09_BogdanHabic.png[300,300]
 Bogdan Habić - Full Stack Engineer
 [link=https://www.linkedin.com/in/bogdan-habic-057a0659/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -466,7 +466,7 @@ Although they both have unique roles and contribution in our team, he is Andrej�
 
 Obsessed with optimization and software architecture, he likes spending his time discussing best practices. You will often hear him talking about technologies that no one else heard about (yet).
 
-image::images/SolutionSpace_Team_10_AleksandarStankovic.png[]
+image::images/SolutionSpace_Team_10_AleksandarStankovic.png[300,300]
 Aleksandar Stankovic - Product designer
 [link=https://www.linkedin.com/in/astankovic144/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -477,7 +477,7 @@ He enjoys problem solving and likes to be included in the whole product lifecycl
 
 On a personal note, he enjoys listening grunge music, visiting festivals and traveling around Europe.
 
-image::images/SolutionSpace_Team_11_KatarinaVukoman.png[]
+image::images/SolutionSpace_Team_11_KatarinaVukoman.png[300,300]
 Katarina Vukoman - Visual designer
 [link=https://www.linkedin.com/in/katarinavukoman/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -488,7 +488,7 @@ Katarina graduated Architecture (University of Belgrade) and also studied Web de
 
 On a personal note, Katarina is in love with music and she even has her own band (hint: google "Weird Fishes"). She's singing and enjoying practicing and performing live.
 
-image::images/SolutionSpace_Team_12_AleksandarKanjevac.png[]
+image::images/SolutionSpace_Team_12_AleksandarKanjevac.png[300,300]
 Aleksandar Kanjevac - Web Developer
 [link=https://www.linkedin.com/in/aleksandar-kanjevac-a35758140/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -499,7 +499,7 @@ He is the person to reach out if we need anything related to the website mainten
 
 On a personal note, Aleksandar was theatre actor and he is still acting from time to time.
 
-image::images/SolutionSpace_Team_13_IvanaFuks.png[]
+image::images/SolutionSpace_Team_13_IvanaFuks.png[300,300]
 Ivana Fuks - Researcher
 [link=https://www.linkedin.com/in/ivana-fuks-751329158/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
@@ -510,7 +510,7 @@ Enjoys in applying her academic background and ideas to disruptive markets.
 
 On a personal note, Ivana truly believes in the power of positive thinking, loves dogs and enjoys starting a day with a good coffee.
 
-image::images/SolutionSpace_Team_14_MarkoKovacevic.png[]
+image::images/SolutionSpace_Team_14_MarkoKovacevic.png[300,300]
 Marko Kovačević - Advisory Board
 [link=https://www.linkedin.com/in/marko-kovacevic-84a32b70/]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
