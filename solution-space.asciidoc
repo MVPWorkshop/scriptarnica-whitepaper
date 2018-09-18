@@ -400,7 +400,7 @@ Graduated informatics at Faculty of Mathematics in Belgrade and Executive MBA at
 // Nemanja Lazic
 image::images/SolutionSpace_Team_05_NemanjaLazic.png[300,300]
 
-https://www.linkedin.com/in/nemanjalazic888/[Nemanja Lazić] - *Biz Dev Director*
+https://www.linkedin.com/in/nemanjalazic888/[Nemanja Lazić] - *Business Development Director*
 
 Dedicated to delivering impeccable business results, while building strong teams and helping them achieve their highest potential.
 
