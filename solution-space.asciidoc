@@ -515,7 +515,7 @@ image::images/SolutionSpace_Team_14_MarkoKovacevic.png[300,300]
 
 Marko Kovačević - Advisory Board
 
-image::images/Let’s work together_03_LinkedIn.png[20,20,link="https://www.linkedin.com/in/marko-kovacevic-84a32b70/"]
+https://www.linkedin.com/in/marko-kovacevic-84a32b70/[LinkedIn, role="external", window="_blank"]
 
 Committed to share and leave everything touched better than when it was found.
 
