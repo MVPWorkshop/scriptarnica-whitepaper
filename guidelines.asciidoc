@@ -1,4 +1,4 @@
-=== Guidelines
+== Guidelines
 
 Although there are no official rules for participating on Scriptarnica’s network, we propose a set of guidelines for reviewers in order to make everybody’s experience with our platform better and easier.
 

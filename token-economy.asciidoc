@@ -1,4 +1,4 @@
-=== Token Economy
+== Token Economy
 
 We are building Scriptarnica, a decentralized platform for reading, writing, publishing, selling, and buying e-books. In order to run smoothly, the platform will have two tokens, tradable SCRPT token and CHR token, that are for internal use only. What does this actually mean?
 

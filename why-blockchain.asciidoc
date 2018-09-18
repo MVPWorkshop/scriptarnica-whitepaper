@@ -1,4 +1,4 @@
-=== Why Blockchain?
+== Why Blockchain?
 
 [.text-center]
 .Enabling fast and cheap microtransactions

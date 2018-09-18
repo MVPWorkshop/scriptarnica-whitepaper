@@ -1,4 +1,4 @@
-=== Token Utility
+== Token Utility
 
 As described in the Problem section, the current book publishing market doesn’t put the quality of the books, writers, and community first. The market is centralized with numerous middlemen in between. That’s why Scriptarnica is designed from the ground up to change the current situation.
 
