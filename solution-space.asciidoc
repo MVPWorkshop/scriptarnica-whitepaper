@@ -500,8 +500,10 @@ He is the person to reach out if we need anything related to the website mainten
 On a personal note, Aleksandar was theatre actor and he is still acting from time to time.
 
 image::images/SolutionSpace_Team_13_IvanaFuks.png[300,300]
+
 Ivana Fuks - Researcher
-[link=https://www.linkedin.com/in/ivana-fuks-751329158/]
+
+[link="https://www.linkedin.com/in/ivana-fuks-751329158/"]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
 Motivated economist interested in discovering new and innovative business approaches for building products that are going to shape our future.
@@ -511,7 +513,9 @@ Enjoys in applying her academic background and ideas to disruptive markets.
 On a personal note, Ivana truly believes in the power of positive thinking, loves dogs and enjoys starting a day with a good coffee.
 
 image::images/SolutionSpace_Team_14_MarkoKovacevic.png[300,300]
+
 Marko Kovačević - Advisory Board
+
 [link="https://www.linkedin.com/in/marko-kovacevic-84a32b70/"]
 image::images/Let’s work together_03_LinkedIn.png[20,20]
 
